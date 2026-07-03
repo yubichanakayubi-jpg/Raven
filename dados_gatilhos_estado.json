@@ -1,0 +1,50 @@
+{
+    "ultimas_respostas_gatilho": {
+        "bom_dia": "nunca é tarde pra acordar pra vida, bom dia!",
+        "carioca": "No Rio tem bairro que o agachamento vem no reflexo.",
+        "ren": "Ren online. A FOX segue avaliada em uma refeição duvidosa.",
+        "miss": "A Miss pode sumir nos eventos, mas no recrutamento ela entrega.",
+        "lobao": "Lobão de velho chegou. Respeita o mascote do INSS da FDN.",
+        "vituw": "Vituw online. Se ele não falar da Tracer 900GT em 10 segundos, chamem ajuda.",
+        "mencao_vazia": "me invocaram de novo, o tédio realmente venceu",
+        "comando_jogatina": "Venham jogar antes que eu comece a contar os sumidos.",
+        "boa_tarde": "Boa tarde, família. Já beberam água hoje?",
+        "paulista": "Em São Paulo o céu às vezes tá cinza só por costume.",
+        "baiano": "Se o mundo acabar, o baiano fala: “oxente, amanhã eu vejo isso”.",
+        "sulista": "No Sul, se fez 18 graus, alguém já fala: “hoje tá calorzinho”.",
+        "umbra": "Respeita a vovó da linha de frente",
+        "comando_interagir": "Alguém fala alguma coisa antes que eu comece a conversar sozinho. <@&1463399349294731335>",
+        "ampox": "Falaram Ampox e um dinossauro sentiu representatividade.",
+        "fofoca": "Já avisando que fofoca sem detalhes é crime social.",
+        "comando_invasao": "Dá tempo de trocar esse jogo pela invasão e fingir que nada aconteceu, tá? <@&1463399349294731335>",
+        "pix": "FDN informa: pix é sempre bem-vindo.",
+        "banho": "Tô sentindo um cheirinho de catinga no ar.",
+        "monny": "Monny online. Reagir no aviso continua sendo uma missão secundária.",
+        "comando_recrutadores": "Vamo recrutar, mas sem assustar né… ninguém quer recrutador parecendo vendedor de loja de roupas ?? <@&1461789056668008711>",
+        "oi": "“Oi” seco assim eu quase fui beber água.",
+        "lay": "hmmm sinto um cheiro de pastelzinho crocante no ar",
+        "npc_sem_quest": "{member} desbloqueou uma fala nova depois de 84 anos."
+    },
+    "usuarios_gatilhos_permanentes": {
+        "bom_dia": [
+            "1427960726516928624",
+            "1426011248994156605",
+            "1273671698255839315",
+            "484875237549408256",
+            "700110700667994133",
+            "992066636599279697",
+            "596100868273602570",
+            "1496307730481283174",
+            "1161822267634884618",
+            "1399162408035160066",
+            "451928629035794463",
+            "1464314004196556983",
+            "1162172195540320292",
+            "1425210901752971498",
+            "1411171719703560293",
+            "946854814309048330",
+            "1466471296450822257",
+            "1501908544419532800"
+        ]
+    }
+}

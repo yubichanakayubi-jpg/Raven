@@ -1,0 +1,404 @@
+{
+  "proximo_id": 9,
+  "polls": {
+    "poll-0001": {
+      "poll_id": "poll-0001",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1462901201069932544,
+      "message_id": null,
+      "autor_id": 1273671698255839315,
+      "titulo": "JOGATINA DE HOJE",
+      "descricao": ",..",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "TESTE 1",
+          "descricao": "1",
+          "emoji": "",
+          "imagem": ""
+        },
+        {
+          "id": "opcao-2",
+          "nome": "TESTE 2",
+          "descricao": "2",
+          "emoji": "",
+          "imagem": ""
+        }
+      ],
+      "votos": {
+        "1273671698255839315": "opcao-2"
+      },
+      "status": "aberta",
+      "data_criacao": "2026-06-05T15:14:09.177915-03:00",
+      "atualizado_em": "2026-06-16T14:54:29.306486-03:00"
+    },
+    "poll-0002": {
+      "poll_id": "poll-0002",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": null,
+      "autor_id": 1273671698255839315,
+      "titulo": "O QUE VAMOS JOGAR HOJE ?",
+      "descricao": "Os dois outros jogos que sobrarem vamos colocar pra próxima semana, a não ser que tenham outras sugestões.",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "RAINBOW FRIENDS 100 PLAYERS",
+          "descricao": "Esse não é o mesmo jogo que jogamos antes, esse é estilo hide and seek! Porém tem que ter bastante gente pra ser divertido, se tiver pouca presença hoje vamos colocar o outro rainbow clássico modo história.",
+          "emoji": "🌈",
+          "imagem": "https://tr.rbxcdn.com/180DAY-1f912980306f457b1f13da4a88c013cc/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/12438809145/Rainbow-Friends-100-Player-Prop-Hunt"
+        },
+        {
+          "id": "opcao-2",
+          "nome": "CORRIDA DE OBBY",
+          "descricao": "",
+          "emoji": "🧗",
+          "imagem": "https://tr.rbxcdn.com/180DAY-fdecbd6fe1814de2f9d27dfd869b261d/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/5434921173/Obby-Run"
+        },
+        {
+          "id": "opcao-3",
+          "nome": "SQUID GAME X",
+          "descricao": "Esse não é o mesmo que jogamos terça, mas é o mesmo estilo.",
+          "emoji": "",
+          "imagem": "https://tr.rbxcdn.com/180DAY-ddb3b634d418ae90b22ed9412b84fc9f/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/7554888362/Squid-Game-X"
+        }
+      ],
+      "votos": {},
+      "status": "aberta",
+      "data_criacao": "2026-06-05T15:50:03.684408-03:00",
+      "atualizado_em": "2026-06-16T14:54:29.553505-03:00"
+    },
+    "poll-0003": {
+      "poll_id": "poll-0003",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": 1512535641991417977,
+      "autor_id": 1273671698255839315,
+      "titulo": "O QUE VAMOS JOGAR HOJE?",
+      "descricao": "",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "RAINBOW FRIENDS 100 PLAYERS",
+          "descricao": "Esse não é o mesmo modo que jogamos antes; ele é estilo esconde-esconde e fica melhor com bastante gente.\n\nSe tiver pouca presença na convocação, vamos trocar para o modo História, que foi o que jogamos anteriormente.",
+          "emoji": "🌈",
+          "imagem": "https://tr.rbxcdn.com/180DAY-1f912980306f457b1f13da4a88c013cc/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/12438809145/Rainbow-Friends-100-Player-Prop-Hunt"
+        },
+        {
+          "id": "opcao-2",
+          "nome": "OBBY RUN/CORRIDA DE OBBY",
+          "descricao": "",
+          "emoji": "🧗",
+          "imagem": "https://tr.rbxcdn.com/180DAY-fdecbd6fe1814de2f9d27dfd869b261d/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/5434921173/Obby-Run"
+        },
+        {
+          "id": "opcao-3",
+          "nome": "SQUID GAMER X",
+          "descricao": "Não é o mesmo jogo de terça, mas é o mesmo estilo com modos diferentes.",
+          "emoji": "❌",
+          "imagem": "https://tr.rbxcdn.com/180DAY-2264689de7f046b3c3df5e135abd5ffa/768/432/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/7554888362/Squid-Game-X"
+        }
+      ],
+      "votos": {
+        "1466471296450822257": "opcao-1",
+        "1427960726516928624": "opcao-2",
+        "992066636599279697": "opcao-2",
+        "531778375954464769": "opcao-1",
+        "484875237549408256": "opcao-3",
+        "451928629035794463": "opcao-2",
+        "1273671698255839315": "opcao-2",
+        "946854814309048330": "opcao-1",
+        "1501908544419532800": "opcao-2",
+        "998790946110054480": "opcao-2",
+        "1399162408035160066": "opcao-1",
+        "1161822267634884618": "opcao-1",
+        "596100868273602570": "opcao-3",
+        "1425210901752971498": "opcao-1",
+        "738069207001989190": "opcao-2",
+        "1411171719703560293": "opcao-1",
+        "1219024603100479509": "opcao-1",
+        "1348699057790648370": "opcao-1"
+      },
+      "status": "encerrada",
+      "data_criacao": "2026-06-05T16:15:30.034257-03:00",
+      "atualizado_em": "2026-06-05T18:18:26.946053-03:00"
+    },
+    "poll-0004": {
+      "poll_id": "poll-0004",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": 1513171157875163217,
+      "autor_id": 1273671698255839315,
+      "titulo": "O QUE VAMOS ASSISTIR HOJE? 🍿",
+      "descricao": "",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "MALDIÇÃO DA MÚMIA",
+          "descricao": "Katie desaparece misteriosamente no Cairo quando ainda era criança. Oito anos depois, ela é encontrada e volta para casa, mas o reencontro com a família vira um pesadelo quando descobrem que ela carrega uma força demoníaca e começa a se transformar em uma múmia.",
+          "emoji": "⚰️",
+          "imagem": "https://atlantidasc.com.br/wp-content/uploads/2026/02/A-MALDICAO-DA-MUMIA.jpg",
+          "link": "https://www.youtube.com/watch?v=7-xJbm1CrXw"
+        },
+        {
+          "id": "opcao-2",
+          "nome": "ZOOTOPIA 2",
+          "descricao": "Em Zootopia 2, Judy Hopps e Nick Wilde investigam Gary De'Snake, uma serpente misteriosa que ameaça virar a cidade de cabeça para baixo. Durante a missão, a dupla descobre uma grande conspiração ligada ao passado de Zootopia, revelando segredos sobre o sistema climático da cidade e o preconceito histórico contra os répteis.",
+          "emoji": "🦊",
+          "imagem": "https://cdn.ome.lt/Iq1lFlrjq9Pf_7UALvWNB91h0Y4=/987x0/smart/filters:format(webp)/uploads/conteudo/fotos/20251027-judy-e-nick-reunidos-em-zootopia-2.webp",
+          "link": "https://www.youtube.com/watch?v=lEzmc22PDRg"
+        },
+        {
+          "id": "opcao-3",
+          "nome": "PANICO 7",
+          "descricao": "Em Pânico 7, Sidney Prescott volta a ser perseguida por um novo Ghostface, agora com sua filha como alvo principal. Para proteger a família, ela precisa enfrentar traumas do passado enquanto o assassino usa inteligência artificial e deepfakes para confundir as vítimas e tornar os ataques ainda mais psicológicos.",
+          "emoji": "🔪",
+          "imagem": "https://www.estadao.com.br/resizer/v2/PBG2C6UORBCZ5MEBGEDCWSQNLU.jpg?quality=80&auth=ff80e84d3092debaa2ddce69b9c645208e929a6729a260c29113fefbb3a4291b&width=1200",
+          "link": "https://www.youtube.com/watch?v=1jHkIGr3auA"
+        }
+      ],
+      "votos": {
+        "1399162408035160066": "opcao-2",
+        "1273671698255839315": "opcao-1",
+        "1425210901752971498": "opcao-3",
+        "1459345416096317550": "opcao-1",
+        "700110700667994133": "opcao-3",
+        "1161822267634884618": "opcao-3",
+        "992066636599279697": "opcao-3",
+        "1466471296450822257": "opcao-3",
+        "1048032097606049812": "opcao-2",
+        "1411171719703560293": "opcao-3",
+        "968306024274616381": "opcao-2",
+        "451928629035794463": "opcao-2",
+        "484875237549408256": "opcao-2",
+        "1371104220807172136": "opcao-3",
+        "1124872132501962782": "opcao-3",
+        "738069207001989190": "opcao-3"
+      },
+      "status": "encerrada",
+      "encerramento_horas": 6,
+      "encerrar_em": "2026-06-07T16:20:47.268237-03:00",
+      "data_criacao": "2026-06-07T10:20:47.268237-03:00",
+      "atualizado_em": "2026-06-07T16:20:47.288808-03:00",
+      "encerrado_automaticamente": true
+    },
+    "poll-0005": {
+      "poll_id": "poll-0005",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": null,
+      "autor_id": 1273671698255839315,
+      "titulo": "QUAL MELHOR HORÁRIO PARA OS EVENTOS DO CLÃ?",
+      "descricao": "Isso não é brincadeira então não vote por votar, vote na opção que vocês acharem que é melhor pra vocês. O horário mais votado será o nosso horário oficial!",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "PRA MIM O MELHOR É AS 2OH",
+          "descricao": "",
+          "emoji": "🌖",
+          "imagem": "",
+          "link": ""
+        },
+        {
+          "id": "opcao-2",
+          "nome": "PRA MIM O MELHOR É ÁS 21H",
+          "descricao": "",
+          "emoji": "🌗",
+          "imagem": "",
+          "link": ""
+        },
+        {
+          "id": "opcao-3",
+          "nome": "PRA MIM O MELHOR É ÁS 22H",
+          "descricao": "",
+          "emoji": "🌘",
+          "imagem": "",
+          "link": ""
+        }
+      ],
+      "votos": {
+        "1466471296450822257": "opcao-1"
+      },
+      "status": "encerrada",
+      "encerramento_horas": 4,
+      "encerrar_em": "2026-06-08T19:21:29.201800-03:00",
+      "data_criacao": "2026-06-08T15:21:29.201800-03:00",
+      "atualizado_em": "2026-06-16T14:54:32.644510-03:00",
+      "encerrado_automaticamente": true
+    },
+    "poll-0006": {
+      "poll_id": "poll-0006",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": 1513611752510722119,
+      "autor_id": 1273671698255839315,
+      "titulo": "Qual melhor horário pra os eventos do clã?",
+      "descricao": "Isso não é brincadeira, vote na opção que seja melhor pra você, a opção com mais votos será nosso horário oficial!",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "Melhor horário pra mim é as 20h",
+          "descricao": "",
+          "emoji": "",
+          "imagem": "",
+          "link": ""
+        },
+        {
+          "id": "opcao-2",
+          "nome": "Melhor horário pra mim é as 21h",
+          "descricao": "",
+          "emoji": "",
+          "imagem": "",
+          "link": ""
+        },
+        {
+          "id": "opcao-3",
+          "nome": "Melhor horário pra mim é as 22h",
+          "descricao": "",
+          "emoji": "",
+          "imagem": "",
+          "link": ""
+        }
+      ],
+      "votos": {
+        "1273671698255839315": "opcao-2",
+        "1399162408035160066": "opcao-2",
+        "738069207001989190": "opcao-2",
+        "1402402097739337790": "opcao-3",
+        "675515531440291861": "opcao-3",
+        "998790946110054480": "opcao-3",
+        "451928629035794463": "opcao-1",
+        "700110700667994133": "opcao-2",
+        "1161822267634884618": "opcao-2",
+        "531778375954464769": "opcao-2",
+        "1427960726516928624": "opcao-2",
+        "596100868273602570": "opcao-2",
+        "992066636599279697": "opcao-2",
+        "1118670004737556530": "opcao-1",
+        "1459345416096317550": "opcao-2",
+        "1048032097606049812": "opcao-2",
+        "1219024603100479509": "opcao-3"
+      },
+      "status": "encerrada",
+      "encerramento_horas": 4,
+      "encerrar_em": "2026-06-08T19:31:33.107777-03:00",
+      "data_criacao": "2026-06-08T15:31:33.107777-03:00",
+      "atualizado_em": "2026-06-08T19:31:33.150382-03:00",
+      "encerrado_automaticamente": true
+    },
+    "poll-0007": {
+      "poll_id": "poll-0007",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": 1515781370947833866,
+      "autor_id": 1273671698255839315,
+      "titulo": "Qual vai ser o filme de hoje?",
+      "descricao": "Hoje será animação, por isso selecionei 3 pra vocês votarem!\n\n**ATENÇÃO**\nSe você tem certeza que não vai assistir então não vote",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "ZOOTOPIA 2",
+          "descricao": "Em Zootopia 2, a coelha policial Judy Hopps e a raposa Nick Wilde enfrentam o caso mais perigoso de suas carreiras ao rastrear Gary De'Snake, uma serpente misteriosa e venenosa. A dupla precisa se infiltrar em partes desconhecidas da cidade, desvendando uma conspiração histórica que ameaça toda a metrópole animal.",
+          "emoji": "🦊",
+          "imagem": "https://cdn.ome.lt/HMPi-qmKUCB5xWeHGz0uQtACv-M=/570x0/smart/filters:format(webp)/uploads/conteudo/fotos/20251027-judy-e-nick-reunidos-em-zootopia-2.webp",
+          "link": "https://www.youtube.com/watch?v=lEzmc22PDRg&t=3s"
+        },
+        {
+          "id": "opcao-2",
+          "nome": "KPOP HUNTERS DEMON",
+          "descricao": "A obra acompanha um grupo feminino de K-pop chamado HUNTR/X (formado por Rumi, Mira e Zoey). Durante o dia, elas são estrelas globais que lotam estádios; em segredo, são guerreiras milenares que usam a música e o amor dos fãs para criar barreiras mágicas e proteger o mundo de demônios ancestrais. O grande clímax da história envolve o embate delas contra uma boy band rival de demônios chamada Saja Boys.",
+          "emoji": "🎤",
+          "imagem": "https://365filmes.com.br/wp-content/uploads/2026/01/365filmes-1769292807.webp",
+          "link": "https://www.youtube.com/watch?v=pIb3zixhP3A"
+        },
+        {
+          "id": "opcao-3",
+          "nome": "SUPER MARIO GALAXY",
+          "descricao": "Super Mario Galaxy: O Filme é uma animação que continua os eventos do longa de 2023. A trama acompanha Mario, Luigi e o novo amigo Yoshi em uma aventura intergaláctica para salvar a Princesa Rosalina, que é sequestrada por Bowser Jr.. A jornada se passa no espaço e apresenta diversos planetas e ameaças cósmicas",
+          "emoji": "⭐",
+          "imagem": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/4828/55e622fee2a7cf0be1740edd871415d0.jpg",
+          "link": "https://www.youtube.com/watch?v=BYy278lrtNA"
+        }
+      ],
+      "votos": {
+        "946854814309048330": "opcao-1",
+        "1161822267634884618": "opcao-1",
+        "451928629035794463": "opcao-1",
+        "700110700667994133": "opcao-3",
+        "1402402097739337790": "opcao-3",
+        "738069207001989190": "opcao-1",
+        "1466471296450822257": "opcao-1",
+        "1427960726516928624": "opcao-2",
+        "1118670004737556530": "opcao-2",
+        "1273671698255839315": "opcao-1"
+      },
+      "status": "encerrada",
+      "encerramento_horas": 4,
+      "encerrar_em": "2026-06-14T19:12:46.130982-03:00",
+      "data_criacao": "2026-06-14T15:12:46.130982-03:00",
+      "atualizado_em": "2026-06-14T18:42:16.336569-03:00"
+    },
+    "poll-0008": {
+      "poll_id": "poll-0008",
+      "guild_id": 1451951038658777222,
+      "channel_id": 1463675079303888917,
+      "message_id": 1517955365323542641,
+      "autor_id": 1273671698255839315,
+      "titulo": "CINEMINHA HOJE ÁS 20H30 🎬",
+      "descricao": "**Não votem se não forem assistir**",
+      "imagem": "",
+      "opcoes": [
+        {
+          "id": "opcao-1",
+          "nome": "Guardiões da Galaxia",
+          "descricao": "Guardiões da Galáxia é uma franquia da Marvel sobre um grupo de foras-da-lei espaciais que se unem para proteger o universo de ameaças planetárias. Conhecidos pelo humor sarcástico e dinâmica de \"família disfuncional\", eles frequentemente salvam o cosmo de vilões poderosos, equilibrando ação épica com nostalgia musical",
+          "emoji": "🚀",
+          "imagem": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/08/Mortes-em-Guardioes-da-Galaxia-Vol.-3.jpg",
+          "link": "https://www.youtube.com/watch?v=TIKTVMb7750&t=2s"
+        },
+        {
+          "id": "opcao-2",
+          "nome": "Mortal Kombat 2",
+          "descricao": "Mortal Kombat 2 (2026) acompanha os campeões do Plano Terreno em uma batalha decisiva contra o imperador tirano Shao Kahn. Auxiliados pelo lendário astro de ação Johnny Cage e por antigos rivais, os defensores da Terra precisam lutar para impedir o domínio sombrio da Exoterra",
+          "emoji": "🥷",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbgSwRNkrCDqHdHJjzTyUiJV2mFZrLDoW6udn7-QupDFuVXlOjAJplaw&s=10",
+          "link": "https://www.youtube.com/watch?v=mXHanabYyOg"
+        }
+      ],
+      "votos": {
+        "1399162408035160066": "opcao-2",
+        "1273671698255839315": "opcao-2",
+        "1161822267634884618": "opcao-1",
+        "1464314004196556983": "opcao-1",
+        "1162172195540320292": "opcao-2",
+        "1426011248994156605": "opcao-1",
+        "1118670004737556530": "opcao-1",
+        "700110700667994133": "opcao-2",
+        "1427960726516928624": "opcao-1",
+        "451928629035794463": "opcao-1",
+        "1466471296450822257": "opcao-1",
+        "484875237549408256": "opcao-1",
+        "1425210901752971498": "opcao-2"
+      },
+      "status": "encerrada",
+      "encerramento_horas": 4,
+      "encerrar_em": "2026-06-20T19:11:24.426530-03:00",
+      "data_criacao": "2026-06-20T15:11:24.426530-03:00",
+      "atualizado_em": "2026-06-20T19:11:24.449740-03:00",
+      "encerrado_automaticamente": true
+    }
+  }
+}

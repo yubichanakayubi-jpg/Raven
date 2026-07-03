@@ -1,0 +1,490 @@
+{
+    "_default": {
+        "CANAL_PERGUNTAS_ID": 1461788928313921588,
+        "CANAL_GERAL_ID": 1461788928313921588,
+        "CANAL_ANIVERSARIO_ID": 1461788932541780115,
+        "CARGO_ANIVERSARIANTE_ID": 1478878533257396465,
+        "CANAL_LOGS_ID": 1495834345011937532,
+        "CANAL_FEEDBACK_ID": 1496573221196140564,
+        "GATILHO_BOM_DIA_ATIVO": true,
+        "BOT_IA_ATIVA": true,
+        "CARGO_STAFF_ID": 1478800416945995849,
+        "AUSENCIA_CHANNEL_ID": 1504257798966476890,
+        "ACHIEVEMENTS_CHANNEL_ID": 1482903234086567977,
+        "ACHIEVEMENTS_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "RAVEN_ACHIEVEMENTS_CHANNEL_ID": 1521654695159005377,
+        "RAVEN_FAN_LOG_CHANNEL_ID": 1521631012172595290,
+        "AUSENCIA_PANEL_CHANNEL_ID": 0,
+        "AUSENCIA_STAFF_ROLE_ID": 1478800416945995849,
+        "ADVERTENCIA_CHANNEL_ID": 1507388610117238824,
+        "AUSENCIA_AUSENTES_MENTION_ROLE_ID": 1463399349294731335,
+        "AUSENCIA_MENTION_ROLE_IDS": [
+            1463399349294731335,
+            1465032635133858035
+        ],
+        "CARGO_RECRUTAMENTO_ID": 1461789056668008711,
+        "CARGO_MEMBRO_ID": 1463399349294731335,
+        "BOAS_VINDAS_ROLE_ID": 1461789054986223650,
+        "CARGO_AVISO_REACAO_ID": 1463399349294731335,
+        "CANAL_TIME_TAGS_ID": 1461794756760829973,
+        "CANAL_TAGS_FINAL_ID": 1461792528058548508,
+        "CANAL_STAFF_TAGS_ID": 1504169713046130898,
+        "CANAL_CONSELHO_ID": 1462901201069932544,
+        "CANDIDATURA_STAFF_CHANNEL_ID": 1462901201069932544,
+        "CANDIDATURA_NUCLEO_CHANNEL_ID": 1462901201069932544,
+        "TAG_PANEL_CHANNEL_ID": 1497954911395123230,
+        "TAG_LOG_CHANNEL_ID": 1497954324070793327,
+        "CANAL_CONTAGEM_ID": 1482067281474228347,
+        "CANAL_RECRUTADORES_ID": 1462902961289039974,
+        "XP_CHANNEL_ID": 1521722064115859566,
+        "XP_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "MENSAGEIRO_DA_NOITE_ROLE_ID": 1521632860157513749,
+        "XP_GENERAL_CHANNEL_IDS": [
+            1461788928313921588
+        ],
+        "XP_MEDIA_CHANNEL_IDS": [
+            1461788929131938014
+        ],
+        "XP_ROLE_IDS": {
+            "corvo_noturno": 1482888021790429315,
+            "corvo_lunar": 1482879827454459974,
+            "corvo_celestial": 1482941698496790588
+        },
+        "XP_DAILY_LIMIT": 700,
+        "XP_GENERAL_COOLDOWN_SECONDS": 60,
+        "XP_MEDIA_COOLDOWN_SECONDS": 3600,
+        "NPC_SEM_QUEST_ROLE_ID": 1521633921882787994,
+        "NPC_SEM_QUEST_COOLDOWN_SECONDS": 21600,
+        "REC_PANEL_CHANNEL_ID": 1496697765953277972,
+        "CADASTRO_CHANNEL_ID": 1498004687759347762,
+        "CADASTRO_OLD_CHANNEL_ID": 1464647753799041227,
+        "CADASTRO_LOG_CHANNEL_ID": 1497982450394071061,
+        "CADASTRO_PANEL_CHANNEL_ID": 1498378701921062964,
+        "TICKET_CATEGORY_ID": 1496246919666602125,
+        "TICKET_STAFF_ROLE_ID": 1497649650189205554,
+        "TICKET_STAFF_ROLE_IDS": [
+            1461789056668008711,
+            1497649650189205554,
+            1461789053237071955,
+            1463389335465492530,
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "TICKET_LOG_CHANNEL_ID": 1496253228126437526,
+        "TICKET_FEEDBACK_LOG_CHANNEL_ID": 1496573221196140564,
+        "TICKET_PANEL_TITLE_TEXT": "Atendimento — Filhos da Noite",
+        "TICKET_PANEL_DESCRIPTION_TEXT": "Abra um ticket para tratar assuntos relacionados ao servidor, recrutamento, parcerias, denúncias ou dúvidas gerais.\n\n**Caso você esteja aqui para se tornar membro, abra um ticket na opção Recrutamento.**\n\n<:clockFDN:1501711193465815080>  Horário de atendimento\nEste painel de tickets funciona das 10h às 00h.\n\n✦ Antes de abrir um ticket\n\n• Explique sua solicitação com clareza.\n• Escolha a categoria correta para o seu atendimento.\n• Evite abrir tickets sem necessidade.\n• Aguarde a resposta da staff com paciência.\n\nClique no botão abaixo para iniciar o atendimento.",
+        "TICKET_PANEL_FOOTER_TEXT": "FDN • Filhos da Noite",
+        "TICKET_PANEL_OPEN_BUTTON_LABEL": "Abrir Ticket",
+        "TICKET_CATEGORY_SELECT_PLACEHOLDER": "Selecione a categoria do seu atendimento.",
+        "TICKET_WELCOME_TITLE_TEXT": "🌙 FDN — Sistema de Atendimento",
+        "TICKET_SYSTEM_FOOTER_TEXT": "FDN • Sistema de Tickets",
+        "TICKET_CATEGORIAS": {},
+        "TICKET_CATEGORIAS_ORDEM": [],
+        "TICKET_FORMULARIOS": {},
+        "BOT_GUILD_NICKNAME": null,
+        "BOT_GUILD_AVATAR_PATH": null,
+        "BOT_GUILD_BANNER_PATH": null,
+        "CANAIS_REACAO": {
+            "jogatina": 1461799633561976933,
+            "invasão": 1462882658408206532,
+            "invasao": 1462882658408206532,
+            "cronograma": 1461788925369782334,
+            "avisos": 1461799397632376832
+        },
+        "CARGOS_LIDERANCA_IDS": [
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "REC_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "REC_EMOJI_RANKING": "<:trofeu:1501334993899618445> ",
+        "REC_EMOJI_INFO": "<:searchFDN:1501711807239159943>",
+        "REC_EMOJI_ADD": "<:addFDN:1501711659176300665>",
+        "REC_EMOJI_REMOVE": "<:removeFDN:1501711716713500812>",
+        "REC_EMOJI_MSG": "<:chat:1501335384167288963> ",
+        "REC_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TAG_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "TAG_PANEL_EMOJI_PENDING": "<:clipboardfdn:1501699960348082227>",
+        "TAG_PANEL_EMOJI_LATE": "<:clockFDN:1501711193465815080>",
+        "TAG_PANEL_EMOJI_DONE": "<:VerifyFDN:1501712135921729727>",
+        "TAG_PANEL_EMOJI_SEARCH": "<:searchFDN:1501711807239159943>",
+        "TAG_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "CADASTRO_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "CADASTRO_PANEL_EMOJI_APPROVED": "<:VerifyFDN:1501712135921729727>",
+        "CADASTRO_PANEL_EMOJI_REJECTED": "<:Xfdn:1501712074412134501>",
+        "CADASTRO_PANEL_EMOJI_IMPORTED": "<:importFDN:1501716630260945046>",
+        "CADASTRO_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TICKET_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "TICKET_PANEL_EMOJI_OPEN": "<:ticketfdn:1501345916861415434>"
+    },
+    "1504189239221288960": {
+        "CANAL_PERGUNTAS_ID": 0,
+        "CANAL_GERAL_ID": 1461788928313921588,
+        "CANAL_ANIVERSARIO_ID": 1461788932541780115,
+        "CARGO_ANIVERSARIANTE_ID": 1478878533257396465,
+        "CANAL_LOGS_ID": 0,
+        "CANAL_FEEDBACK_ID": 1496573221196140564,
+        "GATILHO_BOM_DIA_ATIVO": true,
+        "BOT_IA_ATIVA": true,
+        "CARGO_STAFF_ID": 1505667397057511514,
+        "AUSENCIA_CHANNEL_ID": 1504257798966476890,
+        "ACHIEVEMENTS_CHANNEL_ID": 1482903234086567977,
+        "ACHIEVEMENTS_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "RAVEN_ACHIEVEMENTS_CHANNEL_ID": 1521654695159005377,
+        "RAVEN_FAN_LOG_CHANNEL_ID": 1521631012172595290,
+        "AUSENCIA_PANEL_CHANNEL_ID": 0,
+        "AUSENCIA_STAFF_ROLE_ID": 1478800416945995849,
+        "ADVERTENCIA_CHANNEL_ID": 1507388610117238824,
+        "AUSENCIA_AUSENTES_MENTION_ROLE_ID": 1463399349294731335,
+        "AUSENCIA_MENTION_ROLE_IDS": [
+            1463399349294731335,
+            1465032635133858035
+        ],
+        "CARGO_RECRUTAMENTO_ID": 1461789056668008711,
+        "CARGO_MEMBRO_ID": 1463399349294731335,
+        "BOAS_VINDAS_ROLE_ID": 1461789054986223650,
+        "CARGO_AVISO_REACAO_ID": 1463399349294731335,
+        "CANAL_TIME_TAGS_ID": 1461794756760829973,
+        "CANAL_TAGS_FINAL_ID": 1461792528058548508,
+        "CANAL_STAFF_TAGS_ID": 1504169713046130898,
+        "CANAL_CONSELHO_ID": 1462901201069932544,
+        "CANDIDATURA_STAFF_CHANNEL_ID": 1462901201069932544,
+        "CANDIDATURA_NUCLEO_CHANNEL_ID": 1462901201069932544,
+        "TAG_PANEL_CHANNEL_ID": 1497954911395123230,
+        "TAG_LOG_CHANNEL_ID": 1497954324070793327,
+        "CANAL_CONTAGEM_ID": 1482067281474228347,
+        "CANAL_RECRUTADORES_ID": 1462902961289039974,
+        "XP_CHANNEL_ID": 1521722064115859566,
+        "XP_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "MENSAGEIRO_DA_NOITE_ROLE_ID": 1521632860157513749,
+        "XP_GENERAL_CHANNEL_IDS": [
+            1461788928313921588
+        ],
+        "XP_MEDIA_CHANNEL_IDS": [
+            1461788929131938014
+        ],
+        "XP_ROLE_IDS": {
+            "corvo_noturno": 1482888021790429315,
+            "corvo_lunar": 1482879827454459974,
+            "corvo_celestial": 1482941698496790588
+        },
+        "XP_DAILY_LIMIT": 700,
+        "XP_GENERAL_COOLDOWN_SECONDS": 60,
+        "XP_MEDIA_COOLDOWN_SECONDS": 3600,
+        "NPC_SEM_QUEST_ROLE_ID": 1521633921882787994,
+        "NPC_SEM_QUEST_COOLDOWN_SECONDS": 21600,
+        "REC_PANEL_CHANNEL_ID": 1496697765953277972,
+        "CADASTRO_CHANNEL_ID": 1498004687759347762,
+        "CADASTRO_OLD_CHANNEL_ID": 1464647753799041227,
+        "CADASTRO_LOG_CHANNEL_ID": 1497982450394071061,
+        "CADASTRO_PANEL_CHANNEL_ID": 1498378701921062964,
+        "TICKET_CATEGORY_ID": 1506058960954986496,
+        "TICKET_STAFF_ROLE_ID": 1506058265241456770,
+        "TICKET_STAFF_ROLE_IDS": [
+            1461789056668008711,
+            1497649650189205554,
+            1461789053237071955,
+            1463389335465492530,
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "TICKET_LOG_CHANNEL_ID": 1506058766142148749,
+        "TICKET_FEEDBACK_LOG_CHANNEL_ID": 1506059104303714345,
+        "TICKET_PANEL_TITLE_TEXT": "𓂃 ִֶָ🦋་༘࿐ ATENDIMENTOS E PEDIDOS  ࿐༘་🦋 ִֶָ𓂃",
+        "TICKET_PANEL_DESCRIPTION_TEXT": "Abra um ticket para tratar assuntos relacionados ao servidor, recrutamento, parcerias, denúncias ou dúvidas gerais.\n\n**Caso você esteja aqui para se tornar membro, abra um ticket na opção Recrutamento.**\n\n<:clockFDN:1501711193465815080>  Horário de atendimento\nEste painel de tickets funciona das 10h às 00h.\n\n✦ Antes de abrir um ticket\n\n• Explique sua solicitação com clareza.\n• Escolha a categoria correta para o seu atendimento.\n• Evite abrir tickets sem necessidade.\n• Aguarde a resposta da staff com paciência.\n\nClique no botão abaixo para iniciar o atendimento.",
+        "TICKET_PANEL_FOOTER_TEXT": "Atendimento oficial da Yubiverse",
+        "TICKET_PANEL_OPEN_BUTTON_LABEL": "🦋 Abrir ticket",
+        "TICKET_CATEGORY_SELECT_PLACEHOLDER": "Selecione a categoria do seu atendimento.",
+        "TICKET_WELCOME_TITLE_TEXT": "🌙 FDN — Sistema de Atendimento",
+        "TICKET_SYSTEM_FOOTER_TEXT": "FDN • Sistema de Tickets",
+        "TICKET_CATEGORIAS": {
+            "suporte": {
+                "nome": "Dúvidas",
+                "descricao": "Para tirar dúvidas sobre serviços, valores, prazos ou funcionamento dos pedidos.",
+                "emoji": "<:118790question:1506347547168346152>"
+            },
+            "denuncia": {
+                "nome": "Suporte",
+                "descricao": "Para pedir ajuda com um pedido em andamento, entrega, alteração ou problema.",
+                "emoji": "<:165083staffbadgered:1506360520330973315>"
+            },
+            "recrutamento": {
+                "habilitado": false
+            },
+            "parceria": {
+                "nome": "Parceria",
+                "descricao": "Para tratar propostas de parceria com a Yubiverse.",
+                "emoji": "<:partner:1506365036086427818>"
+            },
+            "outros": {
+                "nome": "Fazer Pedido",
+                "descricao": "Para solicitar imagens, banners, logos, animações, sites ou outros.",
+                "emoji": "<:956768shoppingcart:1506347196713533501>"
+            }
+        },
+        "TICKET_CATEGORIAS_ORDEM": [
+            "outros",
+            "suporte",
+            "denuncia",
+            "parceria"
+        ],
+        "TICKET_FORMULARIOS": {
+            "suporte": {
+                "titulo": "Abrir Ticket — Dúvidas",
+                "campos": [
+                    {
+                        "pergunta": "Qual é a sua dúvida?",
+                        "label": "1. Qual é a sua dúvida?",
+                        "placeholder": "Explique qual dúvida você deseja tirar.",
+                        "style": "short",
+                        "max_length": 200
+                    },
+                    {
+                        "pergunta": "Seu assunto é sobre serviço, valor, prazo ou funcionamento?",
+                        "label": "2. Sobre o que é a dúvida?",
+                        "placeholder": "Exemplo: serviço, valor, prazo ou funcionamento.",
+                        "style": "short",
+                        "max_length": 200
+                    },
+                    {
+                        "pergunta": "Explique melhor sua dúvida.",
+                        "label": "3. Explique melhor sua dúvida.",
+                        "placeholder": "Se precisar, informe detalhes para facilitar o atendimento.",
+                        "style": "paragraph",
+                        "max_length": 500
+                    }
+                ]
+            },
+            "denuncia": {
+                "titulo": "Abrir Ticket — Suporte",
+                "campos": [
+                    {
+                        "pergunta": "Com qual pedido você precisa de ajuda?",
+                        "label": "1. Com qual pedido você precisa de ajuda?",
+                        "placeholder": "Informe o pedido, serviço ou entrega relacionada.",
+                        "style": "short",
+                        "max_length": 200
+                    },
+                    {
+                        "pergunta": "Qual suporte você precisa?",
+                        "label": "2. Qual suporte você precisa?",
+                        "placeholder": "Explique o problema, alteração ou ajuda necessária.",
+                        "style": "paragraph",
+                        "max_length": 500
+                    },
+                    {
+                        "pergunta": "Há algo mais que a equipe precisa saber?",
+                        "label": "3. Informações adicionais",
+                        "placeholder": "Se houver, informe qualquer detalhe importante.",
+                        "style": "paragraph",
+                        "max_length": 400
+                    }
+                ]
+            },
+            "parceria": {
+                "titulo": "Abrir Ticket — Parceria",
+                "campos": [
+                    {
+                        "pergunta": "Nome da comunidade/clã, loja ou tiktok:",
+                        "label": "1. Nome da comunidade/clã, loja ou tiktok",
+                        "placeholder": "Informe o nome da comunidade/clã, loja ou tiktok.",
+                        "style": "short",
+                        "max_length": 150
+                    },
+                    {
+                        "pergunta": "Seu nome:",
+                        "label": "2. Seu nome",
+                        "placeholder": "Informe seu nome.",
+                        "style": "short",
+                        "max_length": 150
+                    },
+                    {
+                        "pergunta": "Qual é a proposta de parceria?",
+                        "label": "3. Proposta de parceria",
+                        "placeholder": "Explique a proposta de parceria.",
+                        "style": "paragraph",
+                        "max_length": 500
+                    }
+                ]
+            },
+            "outros": {
+                "titulo": "Abrir Ticket — Fazer Pedido",
+                "campos": [
+                    {
+                        "pergunta": "O que você deseja pedir?",
+                        "label": "1. O que você deseja pedir?",
+                        "placeholder": "Exemplo: banner, logo, animação, site ou outro serviço.",
+                        "style": "short",
+                        "max_length": 200
+                    },
+                    {
+                        "pergunta": "Quais detalhes o pedido precisa ter?",
+                        "label": "2. Quais detalhes o pedido precisa ter?",
+                        "placeholder": "Explique referências, estilo, cores, objetivo ou informações importantes.",
+                        "style": "paragraph",
+                        "max_length": 500
+                    },
+                    {
+                        "pergunta": "Existe prazo ou observação extra?",
+                        "label": "3. Prazo ou observação extra",
+                        "placeholder": "Se houver, informe prazo, urgência ou qualquer observação extra.",
+                        "style": "paragraph",
+                        "max_length": 400
+                    }
+                ]
+            }
+        },
+        "BOT_GUILD_NICKNAME": "Aelyra",
+        "BOT_GUILD_AVATAR_PATH": "assets/aelyra.png",
+        "BOT_GUILD_BANNER_PATH": "assets/aelyra banner.png",
+        "CANAIS_REACAO": {
+            "jogatina": 1461799633561976933,
+            "invasão": 1462882658408206532,
+            "invasao": 1462882658408206532,
+            "cronograma": 1461788925369782334,
+            "avisos": 1461799397632376832
+        },
+        "CARGOS_LIDERANCA_IDS": [
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "REC_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "REC_EMOJI_RANKING": "<:trofeu:1501334993899618445> ",
+        "REC_EMOJI_INFO": "<:searchFDN:1501711807239159943>",
+        "REC_EMOJI_ADD": "<:addFDN:1501711659176300665>",
+        "REC_EMOJI_REMOVE": "<:removeFDN:1501711716713500812>",
+        "REC_EMOJI_MSG": "<:chat:1501335384167288963> ",
+        "REC_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TAG_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "TAG_PANEL_EMOJI_PENDING": "<:clipboardfdn:1501699960348082227>",
+        "TAG_PANEL_EMOJI_LATE": "<:clockFDN:1501711193465815080>",
+        "TAG_PANEL_EMOJI_DONE": "<:VerifyFDN:1501712135921729727>",
+        "TAG_PANEL_EMOJI_SEARCH": "<:searchFDN:1501711807239159943>",
+        "TAG_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "CADASTRO_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "CADASTRO_PANEL_EMOJI_APPROVED": "<:VerifyFDN:1501712135921729727>",
+        "CADASTRO_PANEL_EMOJI_REJECTED": "<:Xfdn:1501712074412134501>",
+        "CADASTRO_PANEL_EMOJI_IMPORTED": "<:importFDN:1501716630260945046>",
+        "CADASTRO_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TICKET_PANEL_EMOJI_TITLE": "__none__",
+        "TICKET_PANEL_EMOJI_OPEN": "__none__"
+    },
+    "1451951038658777222": {
+        "CANAL_PERGUNTAS_ID": 1461788928313921588,
+        "CANAL_GERAL_ID": 1461788928313921588,
+        "CANAL_ANIVERSARIO_ID": 1461788932541780115,
+        "CARGO_ANIVERSARIANTE_ID": 1478878533257396465,
+        "CANAL_LOGS_ID": 1495834345011937532,
+        "CANAL_FEEDBACK_ID": 1496573221196140564,
+        "GATILHO_BOM_DIA_ATIVO": true,
+        "BOT_IA_ATIVA": true,
+        "CARGO_STAFF_ID": 1478800416945995849,
+        "AUSENCIA_CHANNEL_ID": 1504257798966476890,
+        "ACHIEVEMENTS_CHANNEL_ID": 1482903234086567977,
+        "ACHIEVEMENTS_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "RAVEN_ACHIEVEMENTS_CHANNEL_ID": 1521654695159005377,
+        "RAVEN_FAN_LOG_CHANNEL_ID": 1521631012172595290,
+        "AUSENCIA_PANEL_CHANNEL_ID": 0,
+        "AUSENCIA_STAFF_ROLE_ID": 1478800416945995849,
+        "ADVERTENCIA_CHANNEL_ID": 1507388610117238824,
+        "AUSENCIA_AUSENTES_MENTION_ROLE_ID": 1463399349294731335,
+        "AUSENCIA_MENTION_ROLE_IDS": [
+            1463399349294731335,
+            1465032635133858035
+        ],
+        "CARGO_RECRUTAMENTO_ID": 1461789056668008711,
+        "CARGO_MEMBRO_ID": 1463399349294731335,
+        "BOAS_VINDAS_ROLE_ID": 1461789054986223650,
+        "CARGO_AVISO_REACAO_ID": 1463399349294731335,
+        "CANAL_TIME_TAGS_ID": 1461794756760829973,
+        "CANAL_TAGS_FINAL_ID": 1461792528058548508,
+        "CANAL_STAFF_TAGS_ID": 1504169713046130898,
+        "CANAL_CONSELHO_ID": 1462901201069932544,
+        "CANDIDATURA_STAFF_CHANNEL_ID": 1462901201069932544,
+        "CANDIDATURA_NUCLEO_CHANNEL_ID": 1462901201069932544,
+        "TAG_PANEL_CHANNEL_ID": 1497954911395123230,
+        "TAG_LOG_CHANNEL_ID": 1497954324070793327,
+        "CANAL_CONTAGEM_ID": 1482067281474228347,
+        "CANAL_RECRUTADORES_ID": 1462902961289039974,
+        "XP_CHANNEL_ID": 1521722064115859566,
+        "XP_ANNOUNCE_CHANNEL_ID": 1484155700493160469,
+        "MENSAGEIRO_DA_NOITE_ROLE_ID": 1521632860157513749,
+        "XP_GENERAL_CHANNEL_IDS": [
+            1461788928313921588
+        ],
+        "XP_MEDIA_CHANNEL_IDS": [
+            1461788929131938014
+        ],
+        "XP_ROLE_IDS": {
+            "corvo_noturno": 1482888021790429315,
+            "corvo_lunar": 1482879827454459974,
+            "corvo_celestial": 1482941698496790588
+        },
+        "XP_DAILY_LIMIT": 700,
+        "XP_GENERAL_COOLDOWN_SECONDS": 60,
+        "XP_MEDIA_COOLDOWN_SECONDS": 3600,
+        "NPC_SEM_QUEST_ROLE_ID": 1521633921882787994,
+        "NPC_SEM_QUEST_COOLDOWN_SECONDS": 21600,
+        "REC_PANEL_CHANNEL_ID": 1496697765953277972,
+        "CADASTRO_CHANNEL_ID": 1498004687759347762,
+        "CADASTRO_OLD_CHANNEL_ID": 1464647753799041227,
+        "CADASTRO_LOG_CHANNEL_ID": 1497982450394071061,
+        "CADASTRO_PANEL_CHANNEL_ID": 1498378701921062964,
+        "TICKET_CATEGORY_ID": 1496246919666602125,
+        "TICKET_STAFF_ROLE_ID": 1497649650189205554,
+        "TICKET_STAFF_ROLE_IDS": [
+            1461789056668008711,
+            1497649650189205554,
+            1461789053237071955,
+            1463389335465492530,
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "TICKET_LOG_CHANNEL_ID": 1496253228126437526,
+        "TICKET_FEEDBACK_LOG_CHANNEL_ID": 1496573221196140564,
+        "TICKET_PANEL_TITLE_TEXT": "Atendimento — Filhos da Noite",
+        "TICKET_PANEL_DESCRIPTION_TEXT": "Abra um ticket para tratar assuntos relacionados ao servidor, recrutamento, parcerias, denúncias ou dúvidas gerais.\n\n**Caso você esteja aqui para se tornar membro, abra um ticket na opção Recrutamento.**\n\n<:clockFDN:1501711193465815080>  Horário de atendimento\nEste painel de tickets funciona das 10h às 00h.\n\n✦ Antes de abrir um ticket\n\n• Explique sua solicitação com clareza.\n• Escolha a categoria correta para o seu atendimento.\n• Evite abrir tickets sem necessidade.\n• Aguarde a resposta da staff com paciência.\n\nClique no botão abaixo para iniciar o atendimento.",
+        "TICKET_PANEL_FOOTER_TEXT": "FDN • Filhos da Noite",
+        "TICKET_PANEL_OPEN_BUTTON_LABEL": "Abrir Ticket",
+        "TICKET_CATEGORY_SELECT_PLACEHOLDER": "Selecione a categoria do seu atendimento.",
+        "TICKET_WELCOME_TITLE_TEXT": "🌙 FDN — Sistema de Atendimento",
+        "TICKET_SYSTEM_FOOTER_TEXT": "FDN • Sistema de Tickets",
+        "TICKET_CATEGORIAS": {},
+        "TICKET_CATEGORIAS_ORDEM": [],
+        "TICKET_FORMULARIOS": {},
+        "BOT_GUILD_NICKNAME": null,
+        "BOT_GUILD_AVATAR_PATH": null,
+        "BOT_GUILD_BANNER_PATH": null,
+        "CANAIS_REACAO": {
+            "jogatina": 1461799633561976933,
+            "invasão": 1462882658408206532,
+            "invasao": 1462882658408206532,
+            "cronograma": 1461788925369782334,
+            "avisos": 1461799397632376832
+        },
+        "CARGOS_LIDERANCA_IDS": [
+            1463388653307957362,
+            1461789051047772293
+        ],
+        "REC_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "REC_EMOJI_RANKING": "<:trofeu:1501334993899618445> ",
+        "REC_EMOJI_INFO": "<:searchFDN:1501711807239159943>",
+        "REC_EMOJI_ADD": "<:addFDN:1501711659176300665>",
+        "REC_EMOJI_REMOVE": "<:removeFDN:1501711716713500812>",
+        "REC_EMOJI_MSG": "<:chat:1501335384167288963> ",
+        "REC_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TAG_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "TAG_PANEL_EMOJI_PENDING": "<:clipboardfdn:1501699960348082227>",
+        "TAG_PANEL_EMOJI_LATE": "<:clockFDN:1501711193465815080>",
+        "TAG_PANEL_EMOJI_DONE": "<:VerifyFDN:1501712135921729727>",
+        "TAG_PANEL_EMOJI_SEARCH": "<:searchFDN:1501711807239159943>",
+        "TAG_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "CADASTRO_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "CADASTRO_PANEL_EMOJI_APPROVED": "<:VerifyFDN:1501712135921729727>",
+        "CADASTRO_PANEL_EMOJI_REJECTED": "<:Xfdn:1501712074412134501>",
+        "CADASTRO_PANEL_EMOJI_IMPORTED": "<:importFDN:1501716630260945046>",
+        "CADASTRO_PANEL_EMOJI_UPDATE": "<:loadingFDN:1501716904987988119>",
+        "TICKET_PANEL_EMOJI_TITLE": "<:moonfdn:1501329435222216857>",
+        "TICKET_PANEL_EMOJI_OPEN": "<:ticketfdn:1501345916861415434>"
+    }
+}

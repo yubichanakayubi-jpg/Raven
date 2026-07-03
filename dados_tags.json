@@ -1,0 +1,59 @@
+{
+  "pendentes": {
+    "1260308332670095432": {
+      "user_id": 1260308332670095400,
+      "nome": "_eaharu_",
+      "data_envio": "2026-04-19T05:08:52.221169+00:00",
+      "message_id": 1495257889466614000,
+      "avisou_7_dias": false,
+      "avisou_10_dias": false,
+      "status": "pendente"
+    },
+    "531778375954464769": {
+      "user_id": 531778375954464800,
+      "nome": "bscgabs",
+      "data_envio": "2026-04-08T03:00:00+00:00",
+      "message_id": null,
+      "avisou_7_dias": true,
+      "avisou_10_dias": true,
+      "status": "pendente"
+    },
+    "1368644475253030914": {
+      "user_id": 1368644475253031000,
+      "nome": "redalexandra",
+      "data_envio": "2026-04-05T03:00:00+00:00",
+      "message_id": null,
+      "avisou_7_dias": true,
+      "avisou_10_dias": true,
+      "status": "pendente"
+    },
+    "388448861208838145": {
+      "user_id": 388448861208838140,
+      "nome": "theuz_011",
+      "data_envio": "2026-04-04T03:00:00+00:00",
+      "message_id": null,
+      "avisou_7_dias": true,
+      "avisou_10_dias": true,
+      "status": "pendente"
+    },
+    "405496554556882944": {
+      "user_id": 405496554556882940,
+      "nome": "guimori",
+      "data_envio": "2026-04-03T03:00:00+00:00",
+      "message_id": null,
+      "avisou_7_dias": true,
+      "avisou_10_dias": true,
+      "status": "pendente"
+    },
+    "1367372936402698271": {
+      "user_id": 1367372936402698200,
+      "nome": "mikazzk2_11639",
+      "data_envio": "2026-03-31T03:00:00+00:00",
+      "message_id": null,
+      "avisou_7_dias": true,
+      "avisou_10_dias": true,
+      "status": "pendente"
+    }
+  },
+  "ultima_data_alerta_11": "2026-04-19"
+}

@@ -1,0 +1,2581 @@
+{
+    "cadastros": {
+        "1479924649726050346": {
+            "autor_id": "1273671698255839315",
+            "autor_nome": "akayubii",
+            "message_id": "1479924649726050346",
+            "message_link": "https://discord.com/channels/1451951038658777222/1479924649726050346/1479924649726050346",
+            "raw_content": "<a:moonblue:1464020151719563418>  FICHA DE RECRUTAMENTO\n\nAntes de se tornar membro do clã, precisamos te conhecer um pouco melhor.\nResponda com sinceridade.\n\nNick do Discord:melynoe/umbra\n\nTag do Roblox: Umbra (tem q esperar uns dias pra mudar)\n\nIdade:24\n\nJá participou de outros clãs?\n(X ) Sim\n( ) Não\n\nSe sim, quais clãs?\nCSI, WOD, FOX\nQuais motivos levaram a sua saída desses clãs?\n(Opcional – responda apenas se se sentir confortável)\nTds vc sabe o motivo kkkkkk\n\nEm quais períodos você costuma estar disponível?\n( ) Manhã ( às vezes) Tarde ( X) Noite (X ) Madrugada\n\nCostuma participar de invasões e atividades em grupo?\n( X ) Sim ( ) Às vezes ( ) Não muito\n\nConsegue seguir instruções e manter atenção durante eventos?\n( X ) Sim ( ) Não\n\nAviso: Seu nome no servidor será o mesmo da sua tag do Roblox.\nSe você alterar seu nome no Roblox, avise qualquer pessoa da staff ou a pessoa que te recrutou, para que possamos alterar no servidor também.\n\nVocê aceita fazer parte da FDN?\n( x) Sim ( ) Não\n\nAo enviar esta ficha, você nos ajuda a entender melhor seu perfil e interesse no clã.",
+            "data_envio": "2026-03-07T19:32:12.165000+00:00",
+            "staff_validacao_id": "1273671698255839315",
+            "staff_validacao_nome": "akayubii",
+            "data_validacao": "2026-04-26T15:53:01.833894+00:00",
+            "status": "aprovado",
+            "formato_diferente": false,
+            "campos": {
+                "nick_discord": "melynoe/umbra",
+                "username_roblox": "Não identificado",
+                "nome_atual_roblox": "Umbra (tem q esperar uns dias pra mudar)",
+                "idade": "24",
+                "ja_foi_de_outro_cla": "Sim",
+                "quais_clas": "CSI, WOD, FOX",
+                "motivo_saida": "Tds vc sabe o motivo kkkkkk",
+                "disponibilidade": "Noite, Madrugada",
+                "participa_jogatinas": "Sim",
+                "consegue_colocar_tag": "Não identificado",
+                "consegue_seguir_instrucoes": "Sim",
+                "aceita_cores_fdn": "Sim"
+            }
+        },
+        "1478569569420447944": {
+            "autor_id": "451928629035794463",
+            "autor_nome": "vituw_o",
+            "message_id": "1478569569420447944",
+            "message_link": "https://discord.com/channels/1451951038658777222/1478569569420447944/1478569569420447944",
+            "raw_content": "FICHA DE RECRUTAMENTO\n\nAntes de se tornar membro do clã, precisamos te conhecer um pouco melhor.\nResponda com sinceridade.\n\n1. Nick no Discord: Div\n\n2. Nick no Roblox: Menta\n\n3. Idade: 24\n\n4Já participou de outros clãs?\n( x) Sim\n( ) Não\n\n5.Se sim, quais clãs?, Brz, ETN, Wod\n\n6.Quais motivos levaram a sua saída desses clãs? povo véi podi\n(Opcional – responda apenas se se sentir confortável)\n\n7.Em quais períodos você costuma estar disponível?,\n( ) Manhã ( ) Tarde (x ) Noite ( ) Madrugada\n\n8.Costuma participar de invasões e atividades em grupo?,\n( x) Sim ( ) Às vezes ( ) Não muito\n\n9.Consegue seguir instruções e manter atenção durante eventos?,\n( x) Sim ( ) Não\n\n10.Você aceita fazer parte da FDN? \n(x ) Sim( ) Não\n\nAo enviar esta ficha, você nos ajuda a entender melhor seu perfil e interesse no clã",
+            "data_envio": "2026-03-04T01:47:35.844000+00:00",
+            "staff_validacao_id": "1273671698255839315",
+            "staff_validacao_nome": "akayubii",
+            "data_validacao": "2026-04-26T15:53:34.886824+00:00",
+            "status": "aprovado",
+            "formato_diferente": false,
+            "campos": {
+                "nick_discord": "Div",
+                "username_roblox": "Não identificado",
+                "nome_atual_roblox": "Menta",
+                "idade": "24",
+                "ja_foi_de_outro_cla": "Sim",
+                "quais_clas": "Brz, ETN, Wod",
+                "motivo_saida": "povo véi podi",
+                "disponibilidade": "Noite",
+                "participa_jogatinas": "Sim",
+                "consegue_colocar_tag": "Não identificado",
+                "consegue_seguir_instrucoes": "Sim",
+                "aceita_cores_fdn": "Sim"
+            }
+        },
+        "1498002841631985844": {
+            "member_id": "1273671698255839315",
+            "member_name": "akayubii",
+            "nick_discord": "a",
+            "username_roblox": "b",
+            "nome_atual_roblox": "c",
+            "idade": "1",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "abcd",
+            "motivo_saida": "Não informado",
+            "disponibilidade": "Tarde",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "d",
+            "ticket_origem_id": "1498002571854614758",
+            "ticket_origem_nome": "ticket-recrutamento-fndrakayubi",
+            "forum_post_id": "1498002841631985844",
+            "forum_post_name": "Ficha — c",
+            "forum_message_id": "1498002841631985844",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-26T13:48:25.879645-03:00",
+            "created_at": "2026-04-26T13:48:28.992000-03:00",
+            "updated_at": "2026-04-26T16:48:26.262077+00:00"
+        },
+        "1498351752775209142": {
+            "member_id": "1273671698255839315",
+            "member_name": "akayubii",
+            "nick_discord": "1",
+            "username_roblox": "2",
+            "nome_atual_roblox": "2",
+            "idade": "3",
+            "ja_foi_de_outro_cla": "Não",
+            "quais_clas": "Não se aplica",
+            "motivo_saida": "Não se aplica",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Não",
+            "recrutado_por": "4",
+            "ticket_origem_id": "1498351413393227907",
+            "ticket_origem_nome": "ticket-recrutamento-fndrakayubi",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "Ficha — 2",
+            "forum_message_id": "1498351752775209142",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro_novo",
+            "cadastro_message_id": "1498351752775209142",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498351752775209142",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-27T12:55:44.534606-03:00",
+            "created_at": "2026-04-27T12:54:55.891000-03:00",
+            "updated_at": "2026-04-27T15:55:44.963853+00:00"
+        },
+        "1498353227211472997": {
+            "member_id": "451928629035794463",
+            "member_name": "vituw_o",
+            "nick_discord": "Vitu liderança",
+            "username_roblox": "Vituzinhocorintiano",
+            "nome_atual_roblox": "Vasco joga nada",
+            "idade": "87",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Todos",
+            "motivo_saida": "Sai pq não gostei de ngm",
+            "disponibilidade": "Noite, Manhã",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "O líder mais lindo do roblox",
+            "ticket_origem_id": "1498352572489138269",
+            "ticket_origem_nome": "ticket-recrutamento-ldervituw",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "Ficha — Vasco joga nada",
+            "forum_message_id": "1498353227211472997",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro_novo",
+            "cadastro_message_id": "1498353227211472997",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498353227211472997",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-27T13:02:34.416992-03:00",
+            "created_at": "2026-04-27T13:00:47.424000-03:00",
+            "updated_at": "2026-04-27T16:02:34.913519+00:00"
+        },
+        "1498368040541229177": {
+            "member_id": "1273671698255839315",
+            "member_name": "akayubii",
+            "nick_discord": "123",
+            "username_roblox": "222",
+            "nome_atual_roblox": "222",
+            "idade": "222",
+            "ja_foi_de_outro_cla": "Não",
+            "quais_clas": "Não se aplica",
+            "motivo_saida": "Não se aplica",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "222",
+            "ticket_origem_id": "1498367813168136354",
+            "ticket_origem_nome": "rec-akayubii",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1498368040541229177",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1498368040541229177",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498368040541229177",
+            "status": "reprovado",
+            "reprovado_por_id": "1273671698255839315",
+            "reprovado_por_nome": "akayubii",
+            "reprovado_em": "2026-04-27T14:00:24.822801-03:00",
+            "motivo_reprovacao": "sem graça",
+            "created_at": "2026-04-27T13:59:39.197000-03:00",
+            "updated_at": "2026-04-27T17:00:25.303733+00:00"
+        },
+        "1498464949486485554": {
+            "member_id": "964038071442087977",
+            "member_name": "drk_0v0",
+            "nick_discord": "drk_0v0",
+            "username_roblox": "md_chefeqaa",
+            "nome_atual_roblox": "manga_baiano",
+            "idade": "23",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Los cpx pain wod cai zd",
+            "motivo_saida": "Desanimado",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Umbra",
+            "ticket_origem_id": "1498462625263128676",
+            "ticket_origem_nome": "rec-drk0v0",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1498464949486485554",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1498464949486485554",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498464949486485554",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-27T20:27:14.858442-03:00",
+            "created_at": "2026-04-27T20:24:44.090000-03:00",
+            "updated_at": "2026-04-27T23:27:15.367455+00:00"
+        },
+        "1498828107866705931": {
+            "member_id": "1161822267634884618",
+            "member_name": "robbinzinhaaa",
+            "nick_discord": "robbinzinhaaa",
+            "username_roblox": "@lulu_fofaotakas",
+            "nome_atual_roblox": "RobbinTTK",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "DC, KxY e FNI",
+            "motivo_saida": "DC sai por conta de uns membros, KxY foi por conta de muita falta de respeito no clã, e FNI pelo clã que foi encerrado.",
+            "disponibilidade": "Madrugada, Noite, Tarde",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "victor",
+            "ticket_origem_id": "1498826083007463506",
+            "ticket_origem_nome": "rec-robbinzinhaaa",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1498828107866705931",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1498828107866705931",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498828107866705931",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-28T20:27:45.162022-03:00",
+            "created_at": "2026-04-28T20:27:47.795000-03:00",
+            "updated_at": "2026-04-28T23:27:45.660072+00:00"
+        },
+        "1498885166448246814": {
+            "member_id": "1474761674790797393",
+            "member_name": "tkoo.0",
+            "nick_discord": "tkoo.0",
+            "username_roblox": "star_lksks",
+            "nome_atual_roblox": "Mei",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "FNI,KTY,01",
+            "motivo_saida": "Kty sair pois não estava me sentindo mais bem lá",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Robbin",
+            "ticket_origem_id": "1498882431107993610",
+            "ticket_origem_nome": "rec-tkoo0",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1498885166448246814",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1498885166448246814",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1498885166448246814",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-04-29T00:15:01.423575-03:00",
+            "created_at": "2026-04-29T00:14:31.621000-03:00",
+            "updated_at": "2026-04-29T03:15:02.272987+00:00"
+        },
+        "1499060448119492850": {
+            "member_id": "1351966851688698007",
+            "member_name": "y_opala",
+            "nick_discord": "y_opala",
+            "username_roblox": "Biazinhapires1",
+            "nome_atual_roblox": "Opala",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Amk",
+            "motivo_saida": "O clã se desfez",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Yong lost",
+            "ticket_origem_id": "1499055863850078358",
+            "ticket_origem_nome": "rec-yopala",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499060448119492850",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499060448119492850",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499060448119492850",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-29T11:57:13.086330-03:00",
+            "created_at": "2026-04-29T11:51:02.028000-03:00",
+            "updated_at": "2026-04-29T14:57:13.534308+00:00"
+        },
+        "1499422806608318494": {
+            "member_id": "1430965708883497100",
+            "member_name": "noite01",
+            "nick_discord": "@noite01",
+            "username_roblox": "@bnts_ap",
+            "nome_atual_roblox": "ONxVICE_Coffy",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ON,CSL,CRM e outro q esqueci a tag",
+            "motivo_saida": "Fiz amizade com ninguém kkkk povo era muito panela 🤣 , só a ON q eu sair pq foi motivo pessoal msm , mas o resto real povo já tinha seus grupos e nem interagia",
+            "disponibilidade": "Tarde, Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Umbra",
+            "ticket_origem_id": "1499418565663789127",
+            "ticket_origem_nome": "rec-noite01",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499422806608318494",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499422806608318494",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499422806608318494",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-30T11:50:29.173678-03:00",
+            "created_at": "2026-04-30T11:50:55.024000-03:00",
+            "updated_at": "2026-04-30T14:50:29.668516+00:00"
+        },
+        "1499530996452692018": {
+            "member_id": "1463088529394499705",
+            "member_name": "sivieri17",
+            "nick_discord": "Sivieri17",
+            "username_roblox": "Sivieri17",
+            "nome_atual_roblox": "SHORIN",
+            "idade": "20",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "F11, ond, cpx, Los, Kty, mtr",
+            "motivo_saida": "Todos acabaram faliram",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Mei, vim de servidor pessoal/amigos",
+            "ticket_origem_id": "1499529516941316266",
+            "ticket_origem_nome": "rec-sivieri17",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499530996452692018",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499530996452692018",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499530996452692018",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-30T19:01:15.834691-03:00",
+            "created_at": "2026-04-30T19:00:49.493000-03:00",
+            "updated_at": "2026-04-30T22:01:16.282562+00:00"
+        },
+        "1499533891369697510": {
+            "member_id": "1395791223167647807",
+            "member_name": "1mpuls1ve0375",
+            "nick_discord": "1mpuls1ve0375",
+            "username_roblox": "eu_braykkj",
+            "nome_atual_roblox": "Snowz",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "AXM",
+            "motivo_saida": "Injustamente",
+            "disponibilidade": "Tarde, Noite",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "vituw_o",
+            "ticket_origem_id": "1499531832885252177",
+            "ticket_origem_nome": "rec-1mpuls1ve0375",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499533891369697510",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499533891369697510",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499533891369697510",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-30T19:12:26.755722-03:00",
+            "created_at": "2026-04-30T19:12:19.695000-03:00",
+            "updated_at": "2026-04-30T22:12:27.204105+00:00"
+        },
+        "1499533906029051914": {
+            "member_id": "968306024274616381",
+            "member_name": "pandinha334",
+            "nick_discord": "pandinha334",
+            "username_roblox": "Pandinha33434",
+            "nome_atual_roblox": "Miojinho07",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "FBI",
+            "motivo_saida": "Estava muito ocupada na época",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Rec Lilly",
+            "ticket_origem_id": "1499531710679748608",
+            "ticket_origem_nome": "rec-pandinha334",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499533906029051914",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499533906029051914",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499533906029051914",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-04-30T19:12:39.655803-03:00",
+            "created_at": "2026-04-30T19:12:23.190000-03:00",
+            "updated_at": "2026-04-30T22:12:40.766209+00:00"
+        },
+        "1499798957952336016": {
+            "member_id": "911046652750622811",
+            "member_name": "arin0393",
+            "nick_discord": "aeri0393",
+            "username_roblox": "hidanzinha728",
+            "nome_atual_roblox": "Eden",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "FNI",
+            "motivo_saida": "O clã se desfez.",
+            "disponibilidade": "Manhã, Tarde, Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1499798432032887087",
+            "ticket_origem_nome": "rec-arin0393",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499798957952336016",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499798957952336016",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499798957952336016",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-01T12:45:22.038101-03:00",
+            "created_at": "2026-05-01T12:45:36.493000-03:00",
+            "updated_at": "2026-05-01T15:45:22.552091+00:00"
+        },
+        "1499956616215265473": {
+            "member_id": "992066636599279697",
+            "member_name": "imbunny_z",
+            "nick_discord": "imbunny_z",
+            "username_roblox": "MariGameraYt",
+            "nome_atual_roblox": "PepetaOriginal_",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "01 Primordiais e outros que não me recordo",
+            "motivo_saida": "Sai referente a acontecimentos dentro do clã.",
+            "disponibilidade": "Manhã, Tarde, Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Vitu",
+            "ticket_origem_id": "1499954115730735124",
+            "ticket_origem_nome": "rec-imbunnyz",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1499956616215265473",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1499956616215265473",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1499956616215265473",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-01T23:14:30.948144-03:00",
+            "created_at": "2026-05-01T23:12:05.152000-03:00",
+            "updated_at": "2026-05-02T02:14:31.381467+00:00"
+        },
+        "1500320120671830096": {
+            "member_id": "1279885839530463346",
+            "member_name": "silv_camilleee",
+            "nick_discord": "silv_camilleee",
+            "username_roblox": "mscamilleee",
+            "nome_atual_roblox": "Glitzy",
+            "idade": "23",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "01",
+            "motivo_saida": "Estava dando um tempo do jogo na época e quando voltei decidi sair.",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victor",
+            "ticket_origem_id": "1500312804975185950",
+            "ticket_origem_nome": "rec-silvcamilleee",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1500320120671830096",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1500320120671830096",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1500320120671830096",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-02T23:16:22.833337-03:00",
+            "created_at": "2026-05-02T23:16:31.368000-03:00",
+            "updated_at": "2026-05-03T02:16:23.231441+00:00"
+        },
+        "1500542546521358336": {
+            "member_id": "782034624145915965",
+            "member_name": "darkmercu",
+            "nick_discord": "Mercu",
+            "username_roblox": "MercurioGhoul",
+            "nome_atual_roblox": "Mercurio",
+            "idade": "25",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "01",
+            "motivo_saida": "Acabei me afastando do jogo por conta de um relacionamento, mas agora estou voltando.",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Glitzy e Pepeta",
+            "ticket_origem_id": "1500541401237028996",
+            "ticket_origem_nome": "rec-darkmercu",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1500542546521358336",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1500542546521358336",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1500542546521358336",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-03T14:00:51.450103-03:00",
+            "created_at": "2026-05-03T14:00:21.823000-03:00",
+            "updated_at": "2026-05-03T17:00:51.794812+00:00"
+        },
+        "1500643141869633680": {
+            "member_id": "1344355315155730565",
+            "member_name": "kamilly04060",
+            "nick_discord": "Kamilly04060",
+            "username_roblox": "japinhaa_591",
+            "nome_atual_roblox": "MilkzinhaaTTK",
+            "idade": "19",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "CYB, FOX, NK , AMK e KXY",
+            "motivo_saida": "Clã com pouca interações, estava tudo sumindo, daí eu a robbin saímos",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "RobbinnnTTK",
+            "ticket_origem_id": "1500641659631829204",
+            "ticket_origem_nome": "rec-kamilly04060",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1500643141869633680",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1500643141869633680",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1500643141869633680",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-03T20:40:05.225564-03:00",
+            "created_at": "2026-05-03T20:40:05.623000-03:00",
+            "updated_at": "2026-05-03T23:40:05.763000+00:00"
+        },
+        "1500669879571714048": {
+            "member_id": "437322892154241035",
+            "member_name": "._obsession_.",
+            "nick_discord": "._obsession_.",
+            "username_roblox": "Alcirhagg1",
+            "nome_atual_roblox": "DarkRevove",
+            "idade": "25",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "CPX, MDD, LFT, ST",
+            "motivo_saida": "Bom a maioria eu fiquei até o clã se desfazer, cpx sai por conflitos com o líder em 2024 xd",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Vituw_o",
+            "ticket_origem_id": "1500668708249534644",
+            "ticket_origem_nome": "rec-obsession",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1500669879571714048",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1500669879571714048",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1500669879571714048",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-03T22:27:30.347185-03:00",
+            "created_at": "2026-05-03T22:26:20.388000-03:00",
+            "updated_at": "2026-05-04T01:27:30.821786+00:00"
+        },
+        "1500694005149601863": {
+            "member_id": "1219024603100479509",
+            "member_name": "cuiudo0",
+            "nick_discord": "PÉRGOLA",
+            "username_roblox": "@hxhdhchfn",
+            "nome_atual_roblox": "Pergola",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "LOS,SAM um monte que não lembro",
+            "motivo_saida": "Parei de jogar",
+            "disponibilidade": "Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lilly",
+            "ticket_origem_id": "1500692421007249569",
+            "ticket_origem_nome": "rec-cuiudo0",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1500694005149601863",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1500694005149601863",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1500694005149601863",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-04T00:01:53.893804-03:00",
+            "created_at": "2026-05-04T00:02:12.374000-03:00",
+            "updated_at": "2026-05-04T03:01:54.410658+00:00"
+        },
+        "1501242263651750118": {
+            "member_id": "1452014924870975552",
+            "member_name": "luizafernanda0601",
+            "nick_discord": "luiza",
+            "username_roblox": "Sakura",
+            "nome_atual_roblox": "Luiza2425801",
+            "idade": "18+",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "KxY, FBI, CSI, DDS, AWE, HYD",
+            "motivo_saida": "sai por motivos pessoais",
+            "disponibilidade": "Manhã, Tarde, Noite, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Akayubi",
+            "ticket_origem_id": "1501241295996321973",
+            "ticket_origem_nome": "rec-luizafernanda060",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1501242263651750118",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1501242263651750118",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1501242263651750118",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-05T12:20:40.587332-03:00",
+            "created_at": "2026-05-05T12:20:47.387000-03:00",
+            "updated_at": "2026-05-05T15:20:41.286946+00:00"
+        },
+        "1502760507571044393": {
+            "member_id": "1233159759910277235",
+            "member_name": "ekaterina_rize",
+            "nick_discord": "Ekaterina_rize",
+            "username_roblox": "Ekaterina_Drusila",
+            "nome_atual_roblox": "Drusilla",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Los",
+            "motivo_saida": "Foi na época de 2021 2022 sai por conta de viagem de fim de ano",
+            "disponibilidade": "Noite, Madrugada, Tarde",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Miss",
+            "ticket_origem_id": "1502759136188825711",
+            "ticket_origem_nome": "rec-ekaterinarize",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1502760507571044393",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1502760507571044393",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1502760507571044393",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-09T16:53:36.544978-03:00",
+            "created_at": "2026-05-09T16:53:44.945000-03:00",
+            "updated_at": "2026-05-09T19:53:36.954978+00:00"
+        },
+        "1503486296956600460": {
+            "member_id": "1433145963333025814",
+            "member_name": "uvtl",
+            "nick_discord": "Uvtl",
+            "username_roblox": "@gevimas123",
+            "nome_atual_roblox": "Dilemmis",
+            "idade": "20",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "IV, amx",
+            "motivo_saida": "Falta de comunicação entre os membros e panelas dentro do servidor",
+            "disponibilidade": "Noite, Tarde, Manhã, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Umbra",
+            "ticket_origem_id": "1503485042956046459",
+            "ticket_origem_nome": "rec-uvtl",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1503486296956600460",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1503486296956600460",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1503486296956600460",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-11T16:57:20.017749-03:00",
+            "created_at": "2026-05-11T16:57:46.619000-03:00",
+            "updated_at": "2026-05-11T19:57:20.512733+00:00"
+        },
+        "1503783611336364032": {
+            "member_id": "1287151441995108393",
+            "member_name": "1renzk",
+            "nick_discord": "Renzk",
+            "username_roblox": "bilusds123",
+            "nome_atual_roblox": "Lc_T2",
+            "idade": "22",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "S7N, wod, 01",
+            "motivo_saida": "Fiquei um tempo off",
+            "disponibilidade": "Madrugada, Noite, Tarde",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1503782295868543148",
+            "ticket_origem_nome": "rec-can1balizar",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1503783611336364032",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1503783611336364032",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1503783611336364032",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-12T12:39:02.859555-03:00",
+            "created_at": "2026-05-12T12:39:11.891000-03:00",
+            "updated_at": "2026-05-12T15:39:03.485706+00:00"
+        },
+        "1504518228867547158": {
+            "member_id": "1117086603983192094",
+            "member_name": "ripwolf06",
+            "nick_discord": "ripwolf06",
+            "username_roblox": "Ripwolf06",
+            "nome_atual_roblox": "Rip",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Kxy, S7N",
+            "motivo_saida": "Kxy = intediante",
+            "disponibilidade": "Tarde, Manhã",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1504516400637673513",
+            "ticket_origem_nome": "rec-ripwolf06",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1504518228867547158",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1504518228867547158",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1504518228867547158",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-14T13:17:52.616233-03:00",
+            "created_at": "2026-05-14T13:18:18.359000-03:00",
+            "updated_at": "2026-05-14T16:17:52.968636+00:00"
+        },
+        "1505033386241032232": {
+            "member_id": "1001626698548269128",
+            "member_name": "ysnrz4fx",
+            "nick_discord": "ysrnz",
+            "username_roblox": "taii_z",
+            "nome_atual_roblox": "Taay",
+            "idade": "20",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Zyd devil Kmz Krm",
+            "motivo_saida": "Só sai por sai mesmo",
+            "disponibilidade": "Madrugada, Noite, Tarde, Manhã",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda não",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victor",
+            "ticket_origem_id": "1505031110516674570",
+            "ticket_origem_nome": "rec-ysnrz4fx",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1505033386241032232",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1505033386241032232",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1505033386241032232",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-15T23:26:00.260746-03:00",
+            "created_at": "2026-05-15T23:25:21.448000-03:00",
+            "updated_at": "2026-05-16T02:26:00.735084+00:00"
+        },
+        "1505761357000343673": {
+            "member_id": "1223746940781465624",
+            "member_name": "everest.ofc",
+            "nick_discord": "everest.ofc",
+            "username_roblox": "Everest_calista66",
+            "nome_atual_roblox": "Maserati.ofc",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Ond",
+            "motivo_saida": "Fechou",
+            "disponibilidade": "Manhã, Tarde, Madrugada",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Vituw",
+            "ticket_origem_id": "1505748167868678275",
+            "ticket_origem_nome": "rec-everestofc",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1505761357000343673",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1505761357000343673",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1505761357000343673",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-17T23:38:42.289699-03:00",
+            "created_at": "2026-05-17T23:38:03.202000-03:00",
+            "updated_at": "2026-05-18T02:38:47.754371+00:00"
+        },
+        "1507213438462591098": {
+            "member_id": "1055654080367829092",
+            "member_name": "suel0334",
+            "nick_discord": "suel0334",
+            "username_roblox": "Suelrp7",
+            "nome_atual_roblox": "FDNxSuel",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ZYD",
+            "motivo_saida": "Já tava bom tempo queria testar clans novos para fazer novas amizades",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "MariGameraYt",
+            "ticket_origem_id": "1507210725909594162",
+            "ticket_origem_nome": "ticket-outros-usuario",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1507213438462591098",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1507213438462591098",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1507213438462591098",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-21T23:47:49.148917-03:00",
+            "created_at": "2026-05-21T23:48:06.401000-03:00",
+            "updated_at": "2026-05-22T02:47:49.476725+00:00"
+        },
+        "1507568060561883216": {
+            "member_id": "1462929874661539850",
+            "member_name": "anajulia07533",
+            "nick_discord": "anajulia07533",
+            "username_roblox": "yukki_art",
+            "nome_atual_roblox": "yukki_FDN",
+            "idade": "19",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Astryx",
+            "motivo_saida": "ninguém respeitava ninguém",
+            "disponibilidade": "Noite, Tarde",
+            "participa_jogatinas_invasoes": "Às vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Miss",
+            "ticket_origem_id": "1507567061256110200",
+            "ticket_origem_nome": "rec-anajulia07533",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "<@&1478800416945995849>",
+            "forum_message_id": "1507568060561883216",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1507568060561883216",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1507568060561883216",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-22T23:17:07.479445-03:00",
+            "created_at": "2026-05-22T23:17:14.898000-03:00",
+            "updated_at": "2026-05-23T02:17:07.893689+00:00"
+        },
+        "1509650592291749908": {
+            "membro_id": "1317134127165603862",
+            "membro_mention": "<@1317134127165603862>",
+            "nick_discord": "_luaa__.",
+            "username_roblox": "Yuuki_tss",
+            "nome_atual_roblox": "FDN_Yuuki",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ZDY,CSI,FRY",
+            "motivo_saida": "motivos pessoais",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1509640905089613924",
+            "ticket_origem_nome": "rec-luaa",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1509650592291749908",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1509650592291749908",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1509650592291749908",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-28T17:12:58.143466-03:00",
+            "created_at": "2026-05-28T17:12:29.154000-03:00",
+            "updated_at": "2026-05-28T20:12:58.582771+00:00"
+        },
+        "1509699910033735756": {
+            "membro_id": "1452793810487738451",
+            "membro_mention": "<@1452793810487738451>",
+            "nick_discord": "yaan.xzl",
+            "username_roblox": "Poly0547",
+            "nome_atual_roblox": "Romana",
+            "idade": "15",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "DTR (Dementadores) VLK (Velkan)",
+            "motivo_saida": "Sai por motivos pessoais, por nao estar bem",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Miss",
+            "ticket_origem_id": "1509699213758431343",
+            "ticket_origem_nome": "rec-yaanxzl",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1509699910033735756",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1509699910033735756",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1509699910033735756",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-28T20:41:27.567945-03:00",
+            "created_at": "2026-05-28T20:28:27.420000-03:00",
+            "updated_at": "2026-05-28T23:41:28.095120+00:00"
+        },
+        "1509710068852199565": {
+            "membro_id": "1165055864319770671",
+            "membro_mention": "<@1165055864319770671>",
+            "nick_discord": "Black",
+            "username_roblox": "BLACK",
+            "nome_atual_roblox": "Black",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Krm twt crm",
+            "motivo_saida": "O povo n interagia",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victor",
+            "ticket_origem_id": "1509708805905059931",
+            "ticket_origem_nome": "rec-black165",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1509710068852199565",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1509710068852199565",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1509710068852199565",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-05-28T21:08:32.224708-03:00",
+            "created_at": "2026-05-28T21:08:49.471000-03:00",
+            "updated_at": "2026-05-29T00:08:32.566228+00:00"
+        },
+        "1509715877652861002": {
+            "membro_id": "1165055864319770671",
+            "membro_mention": "<@1165055864319770671>",
+            "nick_discord": "Black.165",
+            "username_roblox": "DARCKKzin12",
+            "nome_atual_roblox": "BLACK",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Twt crm krm",
+            "motivo_saida": "Tédio",
+            "disponibilidade": "Noite",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victkr",
+            "ticket_origem_id": "1509708805905059931",
+            "ticket_origem_nome": "rec-black165",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1509715877652861002",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1509715877652861002",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1509715877652861002",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-28T21:31:33.325635-03:00",
+            "created_at": "2026-05-28T21:31:54.397000-03:00",
+            "updated_at": "2026-05-29T00:31:33.756764+00:00"
+        },
+        "1509951675526418742": {
+            "membro_id": "1509651834044944496",
+            "membro_mention": "<@1509651834044944496>",
+            "nick_discord": "gigizl8",
+            "username_roblox": "gigizl062",
+            "nome_atual_roblox": "gigizl",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Apenas do clã FBI",
+            "motivo_saida": "N jogavam cmg",
+            "disponibilidade": "Manha, Tarde, Noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Laiany",
+            "ticket_origem_id": "1509934777770311980",
+            "ticket_origem_nome": "rec-gigizl8",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1509951675526418742",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1509951675526418742",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1509951675526418742",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-05-29T13:08:54.219893-03:00",
+            "created_at": "2026-05-29T13:08:52.991000-03:00",
+            "updated_at": "2026-05-29T16:08:54.636295+00:00"
+        },
+        "1511185032599830651": {
+            "membro_id": "1371104220807172136",
+            "membro_mention": "<@1371104220807172136>",
+            "nick_discord": "Omgbally1",
+            "username_roblox": "Omgballyxz",
+            "nome_atual_roblox": "zBally",
+            "idade": "21 anos",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "CRM e CSI",
+            "motivo_saida": "Tava meio que ausente por causa de trabalho",
+            "disponibilidade": "Todas as noites",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "pastelzinho_crocante",
+            "ticket_origem_id": "1511182880557105332",
+            "ticket_origem_nome": "rec-omgbally1",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1511185032599830651",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1511185032599830651",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1511185032599830651",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-01T22:52:09.557056-03:00",
+            "created_at": "2026-06-01T22:49:48.232000-03:00",
+            "updated_at": "2026-06-02T01:52:10.407279+00:00"
+        },
+        "1511354609799528471": {
+            "membro_id": "675515531440291861",
+            "membro_mention": "<@675515531440291861>",
+            "nick_discord": "vnrcx7",
+            "username_roblox": "monobollass",
+            "nome_atual_roblox": "Monobolla",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Everlink(ELK)",
+            "motivo_saida": "ELK: desfeito",
+            "disponibilidade": "terça - sexta parte da manhã e dps das 23h",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1511348851951276233",
+            "ticket_origem_nome": "rec-vnrcx7",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1511354609799528471",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1511354609799528471",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1511354609799528471",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-02T10:11:40.140277-03:00",
+            "created_at": "2026-06-02T10:03:38.587000-03:00",
+            "updated_at": "2026-06-02T13:11:40.541315+00:00"
+        },
+        "1511386384081092708": {
+            "membro_id": "853321062658080808",
+            "membro_mention": "<@853321062658080808>",
+            "nick_discord": "Sone_tkk",
+            "username_roblox": "Sonequinhaof1c",
+            "nome_atual_roblox": "FDL_SONExSTW",
+            "idade": "20",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "E mano e complicado ksks",
+            "motivo_saida": "Nao sair sou parceiro de todos",
+            "disponibilidade": "So a noite e aparti das 16",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victor lay e TikTok",
+            "ticket_origem_id": "1511385511241973780",
+            "ticket_origem_nome": "rec-sonetkk",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1511386384081092708",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1511386384081092708",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1511386384081092708",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-06-02T12:11:06.692436-03:00",
+            "created_at": "2026-06-02T12:09:54.166000-03:00",
+            "updated_at": "2026-06-02T15:11:07.105817+00:00"
+        },
+        "1511892700507668490": {
+            "membro_id": "1048032097606049812",
+            "membro_mention": "<@1048032097606049812>",
+            "nick_discord": "gioh3908",
+            "username_roblox": "Giorno_7698",
+            "nome_atual_roblox": "OLS_Giornox7",
+            "idade": "21",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "F11 e OLS",
+            "motivo_saida": "F11 acabou e desanimei da OLS",
+            "disponibilidade": "Todos os dias",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "iLost",
+            "ticket_origem_id": "1511890220742737960",
+            "ticket_origem_nome": "rec-gioh3908",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1511892700507668490",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1511892700507668490",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1511892700507668490",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-03T21:41:16.098472-03:00",
+            "created_at": "2026-06-03T21:41:49.409000-03:00",
+            "updated_at": "2026-06-04T00:41:16.510258+00:00"
+        },
+        "1511927495136383033": {
+            "membro_id": "1124872132501962782",
+            "membro_mention": "<@1124872132501962782>",
+            "nick_discord": "thee_fooll",
+            "username_roblox": "@sam_zin11",
+            "nome_atual_roblox": "Shadow_elden",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "FNI",
+            "motivo_saida": "cla acabou",
+            "disponibilidade": "todos os dias de noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "FDNRobbin",
+            "ticket_origem_id": "1511926357632749629",
+            "ticket_origem_nome": "rec-theefooll",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1511927495136383033",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1511927495136383033",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1511927495136383033",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-03T23:59:24.786259-03:00",
+            "created_at": "2026-06-04T00:00:05.095000-03:00",
+            "updated_at": "2026-06-04T02:59:25.252823+00:00"
+        },
+        "1512532644410167327": {
+            "membro_id": "700110700667994133",
+            "membro_mention": "<@700110700667994133>",
+            "nick_discord": "clm.jota",
+            "username_roblox": "jhonatasxxxxxxxxxx",
+            "nome_atual_roblox": "Atualmente OLS_Kian, mas já posso trocar p TAG da FDN",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ALC, ZYD e OLS",
+            "motivo_saida": "ALC foi por conta de uma situação com o líder q me deixou desconfortável.",
+            "disponibilidade": "Só nn consigo nas quartas das 19h~21h, sextas 19h~21h e nos domingos das 18h~20h",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victoria",
+            "ticket_origem_id": "1512527504823554168",
+            "ticket_origem_nome": "rec-clmjota",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1512532644410167327",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1512532644410167327",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1512532644410167327",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-05T16:04:54.287272-03:00",
+            "created_at": "2026-06-05T16:04:43.925000-03:00",
+            "updated_at": "2026-06-05T19:04:54.808412+00:00"
+        },
+        "1512605462816624770": {
+            "membro_id": "1455087559150534790",
+            "membro_mention": "<@1455087559150534790>",
+            "nick_discord": "Horri.k",
+            "username_roblox": "LUFFYANIMESSS",
+            "nome_atual_roblox": "Beru",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Não qro informa",
+            "motivo_saida": "Cansei",
+            "disponibilidade": "Todos dias as noites talvez",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1512604985479794719",
+            "ticket_origem_nome": "rec-horrik",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1512605462816624770",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1512605462816624770",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1512605462816624770",
+            "status": "reprovado",
+            "reprovado_por_id": "1273671698255839315",
+            "reprovado_por_nome": "akayubii",
+            "reprovado_em": "2026-06-05T20:57:40.526766-03:00",
+            "motivo_reprovacao": "Não quis informar os nomes dos clãs que participou! Se quiser fazer novamente a nossa recrutadora irá mandar a ficha novamente",
+            "created_at": "2026-06-05T20:54:05.186000-03:00",
+            "updated_at": "2026-06-05T23:57:41.014543+00:00"
+        },
+        "1512608919124709606": {
+            "membro_id": "1455087559150534790",
+            "membro_mention": "<@1455087559150534790>",
+            "nick_discord": "horri.k",
+            "username_roblox": "LUFFYANIMESSS",
+            "nome_atual_roblox": "Beru",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Kod",
+            "motivo_saida": "Enjoei",
+            "disponibilidade": "A noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1512604985479794719",
+            "ticket_origem_nome": "rec-horrik",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1512608919124709606",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1512608919124709606",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1512608919124709606",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-05T21:12:59.730815-03:00",
+            "created_at": "2026-06-05T21:07:49.234000-03:00",
+            "updated_at": "2026-06-06T00:13:00.277606+00:00"
+        },
+        "1512609265595187252": {
+            "membro_id": "1118670004737556530",
+            "membro_mention": "<@1118670004737556530>",
+            "nick_discord": "mika_mk.inf",
+            "username_roblox": "@Duuds_Duuds",
+            "nome_atual_roblox": "Mika",
+            "idade": "16",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Já fui do \"KxY\" que virou \"OM\"",
+            "motivo_saida": "Saí pq eles não são mais ciano",
+            "disponibilidade": "Que sempre estou disponível",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Miss",
+            "ticket_origem_id": "1512607108854452275",
+            "ticket_origem_nome": "rec-mikamkinf",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1512609265595187252",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1512609265595187252",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1512609265595187252",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-05T21:13:32.367685-03:00",
+            "created_at": "2026-06-05T21:09:11.839000-03:00",
+            "updated_at": "2026-06-06T00:13:32.826499+00:00"
+        },
+        "1512643545272553532": {
+            "membro_id": "1459345416096317550",
+            "membro_mention": "<@1459345416096317550>",
+            "nick_discord": "silvaxsl98.",
+            "username_roblox": "Vitoria061203",
+            "nome_atual_roblox": "OLS_Estrela",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ALC,OLS",
+            "motivo_saida": "Motivos pessoais",
+            "disponibilidade": "Segunda é quarta feira",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Kian",
+            "ticket_origem_id": "1512639894818914536",
+            "ticket_origem_nome": "rec-silvaxsl98",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1512643545272553532",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1512643545272553532",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1512643545272553532",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-05T23:51:50.472856-03:00",
+            "created_at": "2026-06-05T23:25:24.751000-03:00",
+            "updated_at": "2026-06-06T02:51:50.953716+00:00"
+        },
+        "1513301179260469278": {
+            "membro_id": "753278247374028861",
+            "membro_mention": "<@753278247374028861>",
+            "nick_discord": "destroyer-healms",
+            "username_roblox": "sasukeuchiha090708",
+            "nome_atual_roblox": "FDN_DanteDaLay",
+            "idade": "16",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "S7N",
+            "motivo_saida": "Abuso de poder",
+            "disponibilidade": "Todos os dias todas as horas exceto dias de feriado",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1513299476838617148",
+            "ticket_origem_nome": "rec-destroyerhealms",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1513301179260469278",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1513301179260469278",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1513301179260469278",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-07T18:57:59.161419-03:00",
+            "created_at": "2026-06-07T18:58:36.912000-03:00",
+            "updated_at": "2026-06-07T21:57:59.620015+00:00"
+        },
+        "1513669788214497370": {
+            "membro_id": "1501760767060480171",
+            "membro_mention": "<@1501760767060480171>",
+            "nick_discord": "ariel_0fcx",
+            "username_roblox": "Ariel_0fcX",
+            "nome_atual_roblox": "Ariel",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "CPX, Los, EDN",
+            "motivo_saida": "CPX, Los Acabaram, e a EDN eu desfiz o clã por motivos de disponibilidade e financeira!",
+            "disponibilidade": "Segunda a domingo",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "FDN_Lay",
+            "ticket_origem_id": "1513668634679971851",
+            "ticket_origem_nome": "rec-ariel0fcx",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1513669788214497370",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1513669788214497370",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1513669788214497370",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-08T19:22:48.500569-03:00",
+            "created_at": "2026-06-08T19:23:20.135000-03:00",
+            "updated_at": "2026-06-08T22:22:48.944003+00:00"
+        },
+        "1513700646082318337": {
+            "membro_id": "1344282386162257941",
+            "membro_mention": "<@1344282386162257941>",
+            "nick_discord": "otavio082477",
+            "username_roblox": "otaviohato",
+            "nome_atual_roblox": "90s",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Nao",
+            "quais_clas": "Nao se aplica",
+            "motivo_saida": "Nao se aplica",
+            "disponibilidade": "Segunda-noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay e maria",
+            "ticket_origem_id": "1513697481198932049",
+            "ticket_origem_nome": "rec-otavio082477",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1513700646082318337",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1513700646082318337",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1513700646082318337",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-06-08T21:33:03.134530-03:00",
+            "created_at": "2026-06-08T21:25:57.224000-03:00",
+            "updated_at": "2026-06-09T00:33:03.541472+00:00"
+        },
+        "1513901413900488764": {
+            "membro_id": "1339522513209786380",
+            "membro_mention": "<@1339522513209786380>",
+            "nick_discord": "Glowcvz",
+            "username_roblox": "Winterzinhx",
+            "nome_atual_roblox": "Naery7",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "KXY, VLK,  FNI",
+            "motivo_saida": "Sem motivo específico",
+            "disponibilidade": "Semana: dps das 18h, Sábado livre geralmente",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1513722304125993071",
+            "ticket_origem_nome": "rec-glowcvz",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1513901413900488764",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1513901413900488764",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1513901413900488764",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-09T10:43:19.121848-03:00",
+            "created_at": "2026-06-09T10:43:44.002000-03:00",
+            "updated_at": "2026-06-09T13:43:19.516293+00:00"
+        },
+        "1515754946933297382": {
+            "membro_id": "1237095481679548447",
+            "membro_mention": "<@1237095481679548447>",
+            "nick_discord": "Mageninha_17",
+            "username_roblox": "Shiny_1268",
+            "nome_atual_roblox": "CL_Magena",
+            "idade": "15 anos",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "SAM, KTY, NKS, CSI, BOD",
+            "motivo_saida": "SAM: Eu sai porque ele acabou;",
+            "disponibilidade": "Qualquer dia",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Foi uma amiga minha que participa da FDN!",
+            "ticket_origem_id": "1515726592914096269",
+            "ticket_origem_nome": "rec-magenna17",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1515754946933297382",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1515754946933297382",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1515754946933297382",
+            "status": "aprovado",
+            "aprovado_por_id": "946854814309048330",
+            "aprovado_por_nome": "melynoe",
+            "aprovado_em": "2026-06-14T13:29:10.818295-03:00",
+            "created_at": "2026-06-14T13:29:00.714000-03:00",
+            "updated_at": "2026-06-14T16:29:11.161839+00:00"
+        },
+        "1516777982817992846": {
+            "membro_id": "1458309993064566836",
+            "membro_mention": "<@1458309993064566836>",
+            "nick_discord": "black_angel099",
+            "username_roblox": "jkqwhsh",
+            "nome_atual_roblox": "xFDN_angel",
+            "idade": "16",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "BWK,WOD,DDS,OWD,ETC..",
+            "motivo_saida": "uns foi pq foi de f outros foi pq o lider de la feis mal ao povo do proprio cla",
+            "disponibilidade": "qualquer horario ate sexta estarei disponivel ate 12    voltarei 5 hrs da tarde",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "vitu",
+            "ticket_origem_id": "1516774816932167812",
+            "ticket_origem_nome": "rec-blackangel099",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1516777982817992846",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1516777982817992846",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1516777982817992846",
+            "status": "aprovado",
+            "aprovado_por_id": "451928629035794463",
+            "aprovado_por_nome": "vituw_o",
+            "aprovado_em": "2026-06-17T09:14:06.449947-03:00",
+            "created_at": "2026-06-17T09:14:11.476000-03:00",
+            "updated_at": "2026-06-17T12:14:06.818043+00:00"
+        },
+        "1517268284792373483": {
+            "membro_id": "1162172195540320292",
+            "membro_mention": "<@1162172195540320292>",
+            "nick_discord": "yoshi_xty",
+            "username_roblox": "Moonlight_akzx",
+            "nome_atual_roblox": "zAlucard",
+            "idade": "19y",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "PAIN,EDN e DC",
+            "motivo_saida": "Fechamento do clã",
+            "disponibilidade": "Quinta sábado e tlvz terça",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1517267378000494643",
+            "ticket_origem_nome": "rec-yoshixty",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1517268284792373483",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1517268284792373483",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1517268284792373483",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-18T17:41:46.730309-03:00",
+            "created_at": "2026-06-18T17:42:28.576000-03:00",
+            "updated_at": "2026-06-18T20:41:47.097661+00:00"
+        },
+        "1517307325403107419": {
+            "membro_id": "1513581205843480708",
+            "membro_mention": "<@1513581205843480708>",
+            "nick_discord": "♕♡⚘Ꮐẳ𝙨𝔭ẳ𝓇⚘♡♕",
+            "username_roblox": "samyz714",
+            "nome_atual_roblox": "FDNxGasper",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "FBI e FOX",
+            "motivo_saida": "Motivos pessoais",
+            "disponibilidade": "Terça e Quinta",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Kiwi",
+            "ticket_origem_id": "1517299475649921217",
+            "ticket_origem_nome": "rec-gasper01",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1517307325403107419",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1517307325403107419",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1517307325403107419",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-18T20:22:35.318070-03:00",
+            "created_at": "2026-06-18T20:17:36.583000-03:00",
+            "updated_at": "2026-06-18T23:22:35.682596+00:00"
+        },
+        "1517314726449909993": {
+            "membro_id": "1464314004196556983",
+            "membro_mention": "<@1464314004196556983>",
+            "nick_discord": "Yukaza",
+            "username_roblox": "Nosuke0016",
+            "nome_atual_roblox": "KMZ_yukaza",
+            "idade": "18",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "S7N, NYX, TWT, KRM, VZ",
+            "motivo_saida": "Motivos pessoais.",
+            "disponibilidade": "De segunda a domingo",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Vim pela parceria que a kmz tem com a FDN",
+            "ticket_origem_id": "1517307287784521778",
+            "ticket_origem_nome": "rec-2kamizake",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1517314726449909993",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1517314726449909993",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1517314726449909993",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-18T20:46:25.935669-03:00",
+            "created_at": "2026-06-18T20:47:01.130000-03:00",
+            "updated_at": "2026-06-18T23:46:26.285829+00:00"
+        },
+        "1517590901109686313": {
+            "membro_id": "1078341457410269285",
+            "membro_mention": "<@1078341457410269285>",
+            "nick_discord": "_bycosmo",
+            "username_roblox": "@Djancygames",
+            "nome_atual_roblox": "HLW_Rezezinha",
+            "idade": "17 anos",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "NKS, KOD, ALS, OND, KxY, FOX, MTR, 01 é HLW",
+            "motivo_saida": "Os primeiros foram problemas de liderança o restante foi pq n quis mais participar do clã",
+            "disponibilidade": "Sexta-feira é Sábado, sexta a noite é sábado o dia todo",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "FND_Afrodite",
+            "ticket_origem_id": "1517588330966024212",
+            "ticket_origem_nome": "rec-bycosmo",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1517590901109686313",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1517590901109686313",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1517590901109686313",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-19T15:05:15.015467-03:00",
+            "created_at": "2026-06-19T15:04:26.300000-03:00",
+            "updated_at": "2026-06-19T18:05:15.444788+00:00"
+        },
+        "1518301870412533833": {
+            "membro_id": "1165055864319770671",
+            "membro_mention": "<@1165055864319770671>",
+            "nick_discord": "Black.165",
+            "username_roblox": "DARCKKzin12",
+            "nome_atual_roblox": "BLACK",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "Krm crm",
+            "motivo_saida": "Chatos",
+            "disponibilidade": "Quase sempre de noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "VICTOR",
+            "ticket_origem_id": "1518299162599227544",
+            "ticket_origem_nome": "rec-black165",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1518301870412533833",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1518301870412533833",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1518301870412533833",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-21T14:09:15.390167-03:00",
+            "created_at": "2026-06-21T14:09:34.591000-03:00",
+            "updated_at": "2026-06-21T17:09:15.748692+00:00"
+        },
+        "1518431636952322200": {
+            "membro_id": "1513936899230793730",
+            "membro_mention": "<@1513936899230793730>",
+            "nick_discord": "4igris_",
+            "username_roblox": "4igris7",
+            "nome_atual_roblox": "4igris7",
+            "idade": "19",
+            "ja_foi_de_outro_cla": "Nao",
+            "quais_clas": "Nao se aplica",
+            "motivo_saida": "Nao se aplica",
+            "disponibilidade": "8h",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1518430899891474473",
+            "ticket_origem_nome": "rec-4igris",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1518431636952322200",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1518431636952322200",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1518431636952322200",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-21T22:44:28.286917-03:00",
+            "created_at": "2026-06-21T22:45:13.345000-03:00",
+            "updated_at": "2026-06-22T01:44:28.727678+00:00"
+        },
+        "1520259849248575582": {
+            "membro_id": "1240427686887817269",
+            "membro_mention": "<@1240427686887817269>",
+            "nick_discord": "issys",
+            "username_roblox": "twrqise_lov9",
+            "nome_atual_roblox": "issyz",
+            "idade": "22",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "WZD, MTR, BDE e alguns outros",
+            "motivo_saida": "acabei enjoando",
+            "disponibilidade": "todos",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Afrodite",
+            "ticket_origem_id": "1520255224617631784",
+            "ticket_origem_nome": "rec-leptospirose",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1520259849248575582",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1520259849248575582",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1520259849248575582",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-26T23:50:04.174546-03:00",
+            "created_at": "2026-06-26T23:49:53.123000-03:00",
+            "updated_at": "2026-06-27T02:50:04.559145+00:00"
+        },
+        "1520824003596521533": {
+            "membro_id": "1221577604788781156",
+            "membro_mention": "<@1221577604788781156>",
+            "nick_discord": "toddynlks",
+            "username_roblox": "Tizin011",
+            "nome_atual_roblox": "toddytws",
+            "idade": "17",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "NWO, RDT, PAIN, FSE, HRC",
+            "motivo_saida": "Todos foram pq acabaram, nada de brigas ou inconveniências.",
+            "disponibilidade": "Segunda a sexta, parte da tarde não coloquei final de semana pois as vezes saio pra resolver algumas questões",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Victor",
+            "ticket_origem_id": "1520814414356549855",
+            "ticket_origem_nome": "rec-toddynlks",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1520824003596521533",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1520824003596521533",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1520824003596521533",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-28T13:23:04.409217-03:00",
+            "created_at": "2026-06-28T13:11:38.001000-03:00",
+            "updated_at": "2026-06-28T16:23:04.769043+00:00"
+        },
+        "1521242642422436013": {
+            "membro_id": "1492879085029036164",
+            "membro_mention": "<@1492879085029036164>",
+            "nick_discord": "Kimchi",
+            "username_roblox": "KaguroYi",
+            "nome_atual_roblox": "Kimchi",
+            "idade": "19",
+            "ja_foi_de_outro_cla": "Sim",
+            "quais_clas": "ZYD",
+            "motivo_saida": "O clã tinha algumas panelinhas que excluíam membros novos de rodas de conversa. Esse foi o motivo da minha saída, mas sem alvoroço ou problemas.",
+            "disponibilidade": "Seg a Sex - as 17:30 em diante",
+            "participa_jogatinas_invasoes": "Sim",
+            "consegue_colocar_tag": "Sim",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1521240702845980683",
+            "ticket_origem_nome": "rec-kimchibeom",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1521242642422436013",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1521242642422436013",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1521242642422436013",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-06-29T16:55:50.253802-03:00",
+            "created_at": "2026-06-29T16:55:09.275000-03:00",
+            "updated_at": "2026-06-29T19:55:50.636839+00:00"
+        },
+        "1522054905907380296": {
+            "membro_id": "1432879566334201956",
+            "membro_mention": "<@1432879566334201956>",
+            "nick_discord": "Vessel",
+            "username_roblox": "Albaficadepeixes0",
+            "nome_atual_roblox": "Rudeus greyrat",
+            "idade": "26",
+            "ja_foi_de_outro_cla": "Nao",
+            "quais_clas": "Nao se aplica",
+            "motivo_saida": "Nao se aplica",
+            "disponibilidade": "A noite",
+            "participa_jogatinas_invasoes": "As vezes",
+            "consegue_colocar_tag": "Ainda nao",
+            "aceita_fazer_parte_fdn": "Sim",
+            "recrutado_por": "Lay",
+            "ticket_origem_id": "1522052797325901954",
+            "ticket_origem_nome": "rec-albafica01650047",
+            "forum_post_id": "1498004687759347762",
+            "forum_post_name": "𓆩🗂️𓆪┃cadastro",
+            "forum_message_id": "1522054905907380296",
+            "cadastro_channel_id": "1498004687759347762",
+            "cadastro_channel_name": "𓆩🗂️𓆪┃cadastro",
+            "cadastro_message_id": "1522054905907380296",
+            "cadastro_message_link": "https://discord.com/channels/1451951038658777222/1498004687759347762/1522054905907380296",
+            "status": "aprovado",
+            "aprovado_por_id": "1273671698255839315",
+            "aprovado_por_nome": "akayubii",
+            "aprovado_em": "2026-07-01T22:44:41.847324-03:00",
+            "created_at": "2026-07-01T22:42:47.981000-03:00",
+            "updated_at": "2026-07-02T01:44:42.258874+00:00"
+        }
+    },
+    "indices": {
+        "autor_id": {
+            "1273671698255839315": [
+                "1479924649726050346"
+            ],
+            "451928629035794463": [
+                "1478569569420447944"
+            ]
+        },
+        "member_id": {
+            "1273671698255839315": [
+                "1479924649726050346",
+                "1498002841631985844",
+                "1498351752775209142",
+                "1498368040541229177"
+            ],
+            "451928629035794463": [
+                "1478569569420447944",
+                "1498353227211472997"
+            ],
+            "964038071442087977": [
+                "1498464949486485554"
+            ],
+            "1161822267634884618": [
+                "1498828107866705931"
+            ],
+            "1474761674790797393": [
+                "1498885166448246814"
+            ],
+            "1351966851688698007": [
+                "1499060448119492850"
+            ],
+            "1430965708883497100": [
+                "1499422806608318494"
+            ],
+            "1463088529394499705": [
+                "1499530996452692018"
+            ],
+            "1395791223167647807": [
+                "1499533891369697510"
+            ],
+            "968306024274616381": [
+                "1499533906029051914"
+            ],
+            "911046652750622811": [
+                "1499798957952336016"
+            ],
+            "992066636599279697": [
+                "1499956616215265473"
+            ],
+            "1279885839530463346": [
+                "1500320120671830096"
+            ],
+            "782034624145915965": [
+                "1500542546521358336"
+            ],
+            "1344355315155730565": [
+                "1500643141869633680"
+            ],
+            "437322892154241035": [
+                "1500669879571714048"
+            ],
+            "1219024603100479509": [
+                "1500694005149601863"
+            ],
+            "1452014924870975552": [
+                "1501242263651750118"
+            ],
+            "1233159759910277235": [
+                "1502760507571044393"
+            ],
+            "1433145963333025814": [
+                "1503486296956600460"
+            ],
+            "1287151441995108393": [
+                "1503783611336364032"
+            ],
+            "1117086603983192094": [
+                "1504518228867547158"
+            ],
+            "1001626698548269128": [
+                "1505033386241032232"
+            ],
+            "1223746940781465624": [
+                "1505761357000343673"
+            ],
+            "1055654080367829092": [
+                "1507213438462591098"
+            ],
+            "1462929874661539850": [
+                "1507568060561883216"
+            ]
+        },
+        "nick_discord": {
+            "melynoe/umbra": [
+                "1479924649726050346"
+            ],
+            "div": [
+                "1478569569420447944"
+            ],
+            "a": [
+                "1498002841631985844"
+            ],
+            "1": [
+                "1498351752775209142"
+            ],
+            "vitu lideranca": [
+                "1498353227211472997"
+            ],
+            "123": [
+                "1498368040541229177"
+            ],
+            "drk_0v0": [
+                "1498464949486485554"
+            ],
+            "robbinzinhaaa": [
+                "1498828107866705931"
+            ],
+            "tkoo.0": [
+                "1498885166448246814"
+            ],
+            "y_opala": [
+                "1499060448119492850"
+            ],
+            "@noite01": [
+                "1499422806608318494"
+            ],
+            "sivieri17": [
+                "1499530996452692018"
+            ],
+            "1mpuls1ve0375": [
+                "1499533891369697510"
+            ],
+            "pandinha334": [
+                "1499533906029051914"
+            ],
+            "aeri0393": [
+                "1499798957952336016"
+            ],
+            "imbunny_z": [
+                "1499956616215265473"
+            ],
+            "silv_camilleee": [
+                "1500320120671830096"
+            ],
+            "mercu": [
+                "1500542546521358336"
+            ],
+            "kamilly04060": [
+                "1500643141869633680"
+            ],
+            "._obsession_.": [
+                "1500669879571714048"
+            ],
+            "pergola": [
+                "1500694005149601863"
+            ],
+            "luiza": [
+                "1501242263651750118"
+            ],
+            "ekaterina_rize": [
+                "1502760507571044393"
+            ],
+            "uvtl": [
+                "1503486296956600460"
+            ],
+            "renzk": [
+                "1503783611336364032"
+            ],
+            "ripwolf06": [
+                "1504518228867547158"
+            ],
+            "ysrnz": [
+                "1505033386241032232"
+            ],
+            "everest.ofc": [
+                "1505761357000343673"
+            ],
+            "suel0334": [
+                "1507213438462591098"
+            ],
+            "anajulia07533": [
+                "1507568060561883216"
+            ],
+            "_luaa__.": [
+                "1509650592291749908"
+            ],
+            "yaan.xzl": [
+                "1509699910033735756"
+            ],
+            "black": [
+                "1509710068852199565"
+            ],
+            "black.165": [
+                "1509715877652861002",
+                "1518301870412533833"
+            ],
+            "gigizl8": [
+                "1509951675526418742"
+            ],
+            "omgbally1": [
+                "1511185032599830651"
+            ],
+            "vnrcx7": [
+                "1511354609799528471"
+            ],
+            "sone_tkk": [
+                "1511386384081092708"
+            ],
+            "gioh3908": [
+                "1511892700507668490"
+            ],
+            "thee_fooll": [
+                "1511927495136383033"
+            ],
+            "clm.jota": [
+                "1512532644410167327"
+            ],
+            "horri.k": [
+                "1512605462816624770",
+                "1512608919124709606"
+            ],
+            "mika_mk.inf": [
+                "1512609265595187252"
+            ],
+            "silvaxsl98.": [
+                "1512643545272553532"
+            ],
+            "destroyer-healms": [
+                "1513301179260469278"
+            ],
+            "ariel_0fcx": [
+                "1513669788214497370"
+            ],
+            "otavio082477": [
+                "1513700646082318337"
+            ],
+            "glowcvz": [
+                "1513901413900488764"
+            ],
+            "mageninha_17": [
+                "1515754946933297382"
+            ],
+            "black_angel099": [
+                "1516777982817992846"
+            ],
+            "yoshi_xty": [
+                "1517268284792373483"
+            ],
+            "♕♡⚘Ꮐa𝙨𝔭a𝓇⚘♡♕": [
+                "1517307325403107419"
+            ],
+            "yukaza": [
+                "1517314726449909993"
+            ],
+            "_bycosmo": [
+                "1517590901109686313"
+            ],
+            "4igris_": [
+                "1518431636952322200"
+            ],
+            "issys": [
+                "1520259849248575582"
+            ],
+            "toddynlks": [
+                "1520824003596521533"
+            ],
+            "kimchi": [
+                "1521242642422436013"
+            ],
+            "vessel": [
+                "1522054905907380296"
+            ]
+        },
+        "username_roblox": {
+            "b": [
+                "1498002841631985844"
+            ],
+            "2": [
+                "1498351752775209142"
+            ],
+            "vituzinhocorintiano": [
+                "1498353227211472997"
+            ],
+            "222": [
+                "1498368040541229177"
+            ],
+            "md_chefeqaa": [
+                "1498464949486485554"
+            ],
+            "@lulu_fofaotakas": [
+                "1498828107866705931"
+            ],
+            "star_lksks": [
+                "1498885166448246814"
+            ],
+            "biazinhapires1": [
+                "1499060448119492850"
+            ],
+            "@bnts_ap": [
+                "1499422806608318494"
+            ],
+            "sivieri17": [
+                "1499530996452692018"
+            ],
+            "eu_braykkj": [
+                "1499533891369697510"
+            ],
+            "pandinha33434": [
+                "1499533906029051914"
+            ],
+            "hidanzinha728": [
+                "1499798957952336016"
+            ],
+            "marigamerayt": [
+                "1499956616215265473"
+            ],
+            "mscamilleee": [
+                "1500320120671830096"
+            ],
+            "mercurioghoul": [
+                "1500542546521358336"
+            ],
+            "japinhaa_591": [
+                "1500643141869633680"
+            ],
+            "alcirhagg1": [
+                "1500669879571714048"
+            ],
+            "@hxhdhchfn": [
+                "1500694005149601863"
+            ],
+            "sakura": [
+                "1501242263651750118"
+            ],
+            "ekaterina_drusila": [
+                "1502760507571044393"
+            ],
+            "@gevimas123": [
+                "1503486296956600460"
+            ],
+            "bilusds123": [
+                "1503783611336364032"
+            ],
+            "ripwolf06": [
+                "1504518228867547158"
+            ],
+            "taii_z": [
+                "1505033386241032232"
+            ],
+            "everest_calista66": [
+                "1505761357000343673"
+            ],
+            "suelrp7": [
+                "1507213438462591098"
+            ],
+            "yukki_art": [
+                "1507568060561883216"
+            ],
+            "yuuki_tss": [
+                "1509650592291749908"
+            ],
+            "poly0547": [
+                "1509699910033735756"
+            ],
+            "black": [
+                "1509710068852199565"
+            ],
+            "darckkzin12": [
+                "1509715877652861002",
+                "1518301870412533833"
+            ],
+            "gigizl062": [
+                "1509951675526418742"
+            ],
+            "omgballyxz": [
+                "1511185032599830651"
+            ],
+            "monobollass": [
+                "1511354609799528471"
+            ],
+            "sonequinhaof1c": [
+                "1511386384081092708"
+            ],
+            "giorno_7698": [
+                "1511892700507668490"
+            ],
+            "@sam_zin11": [
+                "1511927495136383033"
+            ],
+            "jhonatasxxxxxxxxxx": [
+                "1512532644410167327"
+            ],
+            "luffyanimesss": [
+                "1512605462816624770",
+                "1512608919124709606"
+            ],
+            "@duuds_duuds": [
+                "1512609265595187252"
+            ],
+            "vitoria061203": [
+                "1512643545272553532"
+            ],
+            "sasukeuchiha090708": [
+                "1513301179260469278"
+            ],
+            "ariel_0fcx": [
+                "1513669788214497370"
+            ],
+            "otaviohato": [
+                "1513700646082318337"
+            ],
+            "winterzinhx": [
+                "1513901413900488764"
+            ],
+            "shiny_1268": [
+                "1515754946933297382"
+            ],
+            "jkqwhsh": [
+                "1516777982817992846"
+            ],
+            "moonlight_akzx": [
+                "1517268284792373483"
+            ],
+            "samyz714": [
+                "1517307325403107419"
+            ],
+            "nosuke0016": [
+                "1517314726449909993"
+            ],
+            "@djancygames": [
+                "1517590901109686313"
+            ],
+            "4igris7": [
+                "1518431636952322200"
+            ],
+            "twrqise_lov9": [
+                "1520259849248575582"
+            ],
+            "tizin011": [
+                "1520824003596521533"
+            ],
+            "kaguroyi": [
+                "1521242642422436013"
+            ],
+            "albaficadepeixes0": [
+                "1522054905907380296"
+            ]
+        },
+        "nome_atual_roblox": {
+            "umbra (tem q esperar uns dias pra mudar)": [
+                "1479924649726050346"
+            ],
+            "menta": [
+                "1478569569420447944"
+            ],
+            "c": [
+                "1498002841631985844"
+            ],
+            "2": [
+                "1498351752775209142"
+            ],
+            "vasco joga nada": [
+                "1498353227211472997"
+            ],
+            "222": [
+                "1498368040541229177"
+            ],
+            "manga_baiano": [
+                "1498464949486485554"
+            ],
+            "robbinttk": [
+                "1498828107866705931"
+            ],
+            "mei": [
+                "1498885166448246814"
+            ],
+            "opala": [
+                "1499060448119492850"
+            ],
+            "onxvice_coffy": [
+                "1499422806608318494"
+            ],
+            "shorin": [
+                "1499530996452692018"
+            ],
+            "snowz": [
+                "1499533891369697510"
+            ],
+            "miojinho07": [
+                "1499533906029051914"
+            ],
+            "eden": [
+                "1499798957952336016"
+            ],
+            "pepetaoriginal_": [
+                "1499956616215265473"
+            ],
+            "glitzy": [
+                "1500320120671830096"
+            ],
+            "mercurio": [
+                "1500542546521358336"
+            ],
+            "milkzinhaattk": [
+                "1500643141869633680"
+            ],
+            "darkrevove": [
+                "1500669879571714048"
+            ],
+            "pergola": [
+                "1500694005149601863"
+            ],
+            "luiza2425801": [
+                "1501242263651750118"
+            ],
+            "drusilla": [
+                "1502760507571044393"
+            ],
+            "dilemmis": [
+                "1503486296956600460"
+            ],
+            "lc_t2": [
+                "1503783611336364032"
+            ],
+            "rip": [
+                "1504518228867547158"
+            ],
+            "taay": [
+                "1505033386241032232"
+            ],
+            "maserati.ofc": [
+                "1505761357000343673"
+            ],
+            "fdnxsuel": [
+                "1507213438462591098"
+            ],
+            "yukki_fdn": [
+                "1507568060561883216"
+            ],
+            "fdn_yuuki": [
+                "1509650592291749908"
+            ],
+            "romana": [
+                "1509699910033735756"
+            ],
+            "black": [
+                "1509710068852199565",
+                "1509715877652861002",
+                "1518301870412533833"
+            ],
+            "gigizl": [
+                "1509951675526418742"
+            ],
+            "zbally": [
+                "1511185032599830651"
+            ],
+            "monobolla": [
+                "1511354609799528471"
+            ],
+            "fdl_sonexstw": [
+                "1511386384081092708"
+            ],
+            "ols_giornox7": [
+                "1511892700507668490"
+            ],
+            "shadow_elden": [
+                "1511927495136383033"
+            ],
+            "atualmente ols_kian, mas ja posso trocar p tag da fdn": [
+                "1512532644410167327"
+            ],
+            "beru": [
+                "1512605462816624770",
+                "1512608919124709606"
+            ],
+            "mika": [
+                "1512609265595187252"
+            ],
+            "ols_estrela": [
+                "1512643545272553532"
+            ],
+            "fdn_dantedalay": [
+                "1513301179260469278"
+            ],
+            "ariel": [
+                "1513669788214497370"
+            ],
+            "90s": [
+                "1513700646082318337"
+            ],
+            "naery7": [
+                "1513901413900488764"
+            ],
+            "cl_magena": [
+                "1515754946933297382"
+            ],
+            "xfdn_angel": [
+                "1516777982817992846"
+            ],
+            "zalucard": [
+                "1517268284792373483"
+            ],
+            "fdnxgasper": [
+                "1517307325403107419"
+            ],
+            "kmz_yukaza": [
+                "1517314726449909993"
+            ],
+            "hlw_rezezinha": [
+                "1517590901109686313"
+            ],
+            "4igris7": [
+                "1518431636952322200"
+            ],
+            "issyz": [
+                "1520259849248575582"
+            ],
+            "toddytws": [
+                "1520824003596521533"
+            ],
+            "kimchi": [
+                "1521242642422436013"
+            ],
+            "rudeus greyrat": [
+                "1522054905907380296"
+            ]
+        },
+        "status": {
+            "aprovado": [
+                "1479924649726050346",
+                "1478569569420447944",
+                "1498002841631985844",
+                "1498351752775209142",
+                "1498353227211472997",
+                "1498464949486485554",
+                "1498828107866705931",
+                "1498885166448246814",
+                "1499060448119492850",
+                "1499422806608318494",
+                "1499530996452692018",
+                "1499533891369697510",
+                "1499533906029051914",
+                "1499798957952336016",
+                "1499956616215265473",
+                "1500320120671830096",
+                "1500542546521358336",
+                "1500643141869633680",
+                "1500669879571714048",
+                "1500694005149601863",
+                "1501242263651750118",
+                "1502760507571044393",
+                "1503486296956600460",
+                "1503783611336364032",
+                "1504518228867547158",
+                "1505033386241032232",
+                "1505761357000343673",
+                "1507213438462591098",
+                "1507568060561883216",
+                "1509650592291749908",
+                "1509699910033735756",
+                "1509710068852199565",
+                "1509715877652861002",
+                "1509951675526418742",
+                "1511185032599830651",
+                "1511354609799528471",
+                "1511386384081092708",
+                "1511892700507668490",
+                "1511927495136383033",
+                "1512532644410167327",
+                "1512608919124709606",
+                "1512609265595187252",
+                "1512643545272553532",
+                "1513301179260469278",
+                "1513669788214497370",
+                "1513700646082318337",
+                "1513901413900488764",
+                "1515754946933297382",
+                "1516777982817992846",
+                "1517268284792373483",
+                "1517307325403107419",
+                "1517314726449909993",
+                "1517590901109686313",
+                "1518301870412533833",
+                "1518431636952322200",
+                "1520259849248575582",
+                "1520824003596521533",
+                "1521242642422436013",
+                "1522054905907380296"
+            ],
+            "reprovado": [
+                "1498368040541229177",
+                "1512605462816624770"
+            ]
+        }
+    }
+}

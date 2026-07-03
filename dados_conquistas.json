@@ -1,0 +1,544 @@
+{
+    "guilds": {
+        "1451951038658777222": {
+            "membros": {
+                "1237095481679548447": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1464314004196556983": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1344355315155730565": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1411171719703560293": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1221577604788781156": {
+                    "fa_do_raven": {
+                        "progresso": 2,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 0,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01",
+                            "2026-07-02"
+                        ],
+                        "ultima_resposta_valida": "2026-07-02T19:24:40.327000-03:00"
+                    }
+                },
+                "1351966851688698007": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1344282386162257941": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "853321062658080808": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 0,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-02"
+                        ],
+                        "ultima_resposta_valida": "2026-07-02T19:02:11.328000-03:00"
+                    }
+                },
+                "1513581205843480708": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1427960726516928624": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01"
+                        ],
+                        "ultima_resposta_valida": "2026-07-01T19:11:13.268000-03:00"
+                    }
+                },
+                "1339522513209786380": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1399162408035160066": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1402402097739337790": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1165055864319770671": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "531778375954464769": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1425210901752971498": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01"
+                        ],
+                        "ultima_resposta_valida": "2026-07-01T19:05:01.453000-03:00"
+                    }
+                },
+                "700110700667994133": {
+                    "fa_do_raven": {
+                        "progresso": 2,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 0,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01",
+                            "2026-07-02"
+                        ],
+                        "ultima_resposta_valida": "2026-07-02T19:07:24.731000-03:00"
+                    }
+                },
+                "1240427686887817269": {
+                    "fa_do_raven": {
+                        "progresso": 2,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 0,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01",
+                            "2026-07-02"
+                        ],
+                        "ultima_resposta_valida": "2026-07-02T19:26:38.458000-03:00"
+                    }
+                },
+                "753278247374028861": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1166132322605744149": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01"
+                        ],
+                        "ultima_resposta_valida": "2026-07-01T19:17:38.420000-03:00"
+                    }
+                },
+                "484875237549408256": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "998790946110054480": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "596100868273602570": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01"
+                        ],
+                        "ultima_resposta_valida": "2026-07-01T19:16:05.548000-03:00"
+                    }
+                },
+                "1048032097606049812": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "782034624145915965": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1426011248994156605": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "968306024274616381": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1124872132501962782": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1219024603100479509": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-01"
+                        ],
+                        "ultima_resposta_valida": "2026-07-01T19:02:59.270000-03:00"
+                    }
+                },
+                "406853626523549697": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1055654080367829092": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "437322892154241035": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1492879085029036164": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1501908544419532800": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1118670004737556530": {
+                    "fa_do_raven": {
+                        "progresso": 1,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 0,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [
+                            "2026-07-02"
+                        ],
+                        "ultima_resposta_valida": "2026-07-02T19:15:35.384000-03:00"
+                    }
+                },
+                "1496307730481283174": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1161822267634884618": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 2,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                },
+                "1466471296450822257": {
+                    "mensageiro_da_noite": {
+                        "progresso": 1,
+                        "objetivo": 5,
+                        "possui_cargo": false
+                    }
+                },
+                "1432879566334201956": {
+                    "fa_do_raven": {
+                        "progresso": 0,
+                        "objetivo": 35,
+                        "faltas_antes_cargo": 1,
+                        "faltas_com_cargo": 0,
+                        "possui_cargo": false,
+                        "perguntas_respondidas": [],
+                        "ultima_resposta_valida": null
+                    }
+                }
+            },
+            "eventos_processados": [],
+            "perguntas_diarias": {
+                "2026-07-01": {
+                    "message_id": "1521998939560087612",
+                    "channel_id": "1461788928313921588",
+                    "enviada_em": "2026-07-01T19:00:12.061503-03:00",
+                    "fecha_em": "2026-07-01T20:00:12.061503-03:00",
+                    "processada": true,
+                    "respondentes": {
+                        "1240427686887817269": {
+                            "message_id": "1521999370965221549",
+                            "responded_at": "2026-07-01T19:02:07.419000-03:00",
+                            "content": "vlw ze <:2rabbia:1168492636974354453>"
+                        },
+                        "700110700667994133": {
+                            "message_id": "1521999394541404361",
+                            "responded_at": "2026-07-01T19:02:13.040000-03:00",
+                            "content": "Maze Runner"
+                        },
+                        "1219024603100479509": {
+                            "message_id": "1521999588444078232",
+                            "responded_at": "2026-07-01T19:02:59.270000-03:00",
+                            "content": "Ilha do medo"
+                        },
+                        "1425210901752971498": {
+                            "message_id": "1522000100916858920",
+                            "responded_at": "2026-07-01T19:05:01.453000-03:00",
+                            "content": "Corra"
+                        },
+                        "1427960726516928624": {
+                            "message_id": "1522001660422127686",
+                            "responded_at": "2026-07-01T19:11:13.268000-03:00",
+                            "content": "\"A cinco passos de você\" 🌸\nPq no final entende-se. Que... Às vezes é necessário se afastar daquilo que a gente mais ama para permanecer vivo! ❤️"
+                        },
+                        "596100868273602570": {
+                            "message_id": "1522002886333169825",
+                            "responded_at": "2026-07-01T19:16:05.548000-03:00",
+                            "content": "Ala"
+                        },
+                        "1166132322605744149": {
+                            "message_id": "1522003275866570823",
+                            "responded_at": "2026-07-01T19:17:38.420000-03:00",
+                            "content": "noooossssaaaaaaaaaaa"
+                        },
+                        "1221577604788781156": {
+                            "message_id": "1522007756976951429",
+                            "responded_at": "2026-07-01T19:35:26.800000-03:00",
+                            "content": "<@451928629035794463> dps de uma fala dessa cade o ban?"
+                        }
+                    },
+                    "pergunta_texto": "Fale um filme que você gosta e tem o melhor plot twist."
+                },
+                "2026-07-02": {
+                    "message_id": "1522361516840452109",
+                    "channel_id": "1461788928313921588",
+                    "enviada_em": "2026-07-02T19:00:57.839986-03:00",
+                    "fecha_em": "2026-07-02T20:00:57.839986-03:00",
+                    "processada": true,
+                    "respondentes": {
+                        "853321062658080808": {
+                            "message_id": "1522361775226490930",
+                            "responded_at": "2026-07-02T19:02:11.328000-03:00",
+                            "content": "Web namoro"
+                        },
+                        "700110700667994133": {
+                            "message_id": "1522363089734078584",
+                            "responded_at": "2026-07-02T19:07:24.731000-03:00",
+                            "content": "Jogar vôlei"
+                        },
+                        "1118670004737556530": {
+                            "message_id": "1522365147681914971",
+                            "responded_at": "2026-07-02T19:15:35.384000-03:00",
+                            "content": "Bobbie goods"
+                        },
+                        "1221577604788781156": {
+                            "message_id": "1522367433338392728",
+                            "responded_at": "2026-07-02T19:24:40.327000-03:00",
+                            "content": "acho q tenho hiperfoco em skin mini"
+                        },
+                        "1240427686887817269": {
+                            "message_id": "1522367928815849564",
+                            "responded_at": "2026-07-02T19:26:38.458000-03:00",
+                            "content": "cd o povo daqui, querem uma fofoca<:2addio:1168492656217821285>"
+                        }
+                    },
+                    "pergunta_texto": "Qual coisa você julgava antes e hoje faz igual?"
+                }
+            }
+        }
+    }
+}
